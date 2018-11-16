@@ -1,0 +1,36 @@
+# CMake generated Testfile for 
+# Source directory: /home/jkang/gtsam/tests
+# Build directory: /home/jkang/gtsam/build/tests
+# 
+# This file includes the relevant testing commands required for 
+# testing this directory and lists subdirectories to be tested as well.
+add_test(testNonlinearISAM "/home/jkang/gtsam/build/tests/testNonlinearISAM")
+add_test(testGaussianISAM2 "/home/jkang/gtsam/build/tests/testGaussianISAM2")
+add_test(testNonlinearEquality "/home/jkang/gtsam/build/tests/testNonlinearEquality")
+add_test(testManifold "/home/jkang/gtsam/build/tests/testManifold")
+add_test(testGeneralSFMFactorB "/home/jkang/gtsam/build/tests/testGeneralSFMFactorB")
+add_test(testSimulated2D "/home/jkang/gtsam/build/tests/testSimulated2D")
+add_test(testGradientDescentOptimizer "/home/jkang/gtsam/build/tests/testGradientDescentOptimizer")
+add_test(testGraph "/home/jkang/gtsam/build/tests/testGraph")
+add_test(testGaussianBayesTreeB "/home/jkang/gtsam/build/tests/testGaussianBayesTreeB")
+add_test(testSubgraphSolver "/home/jkang/gtsam/build/tests/testSubgraphSolver")
+add_test(testMarginals "/home/jkang/gtsam/build/tests/testMarginals")
+add_test(testSimulated2DOriented "/home/jkang/gtsam/build/tests/testSimulated2DOriented")
+add_test(testNonlinearFactorGraph "/home/jkang/gtsam/build/tests/testNonlinearFactorGraph")
+add_test(testNonlinearOptimizer "/home/jkang/gtsam/build/tests/testNonlinearOptimizer")
+add_test(testIterative "/home/jkang/gtsam/build/tests/testIterative")
+add_test(testGaussianISAM "/home/jkang/gtsam/build/tests/testGaussianISAM")
+add_test(testGaussianFactorGraphB "/home/jkang/gtsam/build/tests/testGaussianFactorGraphB")
+add_test(testSimulated3D "/home/jkang/gtsam/build/tests/testSimulated3D")
+add_test(testNonlinearFactor "/home/jkang/gtsam/build/tests/testNonlinearFactor")
+add_test(testBoundingConstraint "/home/jkang/gtsam/build/tests/testBoundingConstraint")
+add_test(testSubgraphPreconditioner "/home/jkang/gtsam/build/tests/testSubgraphPreconditioner")
+add_test(testLie "/home/jkang/gtsam/build/tests/testLie")
+add_test(testDoglegOptimizer "/home/jkang/gtsam/build/tests/testDoglegOptimizer")
+add_test(testPCGSolver "/home/jkang/gtsam/build/tests/testPCGSolver")
+add_test(testExtendedKalmanFilter "/home/jkang/gtsam/build/tests/testExtendedKalmanFilter")
+add_test(testSerializationSLAM "/home/jkang/gtsam/build/tests/testSerializationSLAM")
+add_test(testRot3Optimization "/home/jkang/gtsam/build/tests/testRot3Optimization")
+add_test(testGaussianJunctionTreeB "/home/jkang/gtsam/build/tests/testGaussianJunctionTreeB")
+add_test(testExpressionFactor "/home/jkang/gtsam/build/tests/testExpressionFactor")
+add_test(testPreconditioner "/home/jkang/gtsam/build/tests/testPreconditioner")

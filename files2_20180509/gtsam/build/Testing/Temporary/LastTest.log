@@ -1,0 +1,4278 @@
+Start testing: Feb 02 14:28 EST
+----------------------------------------------------------
+1/230 Testing: testTemplate
+1/230 Test: testTemplate
+Command: "/home/jkang/gtsam/build/wrap/tests/testTemplate"
+Directory: /home/jkang/gtsam/build/wrap/tests
+"testTemplate" start time: Feb 02 14:28 EST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"testTemplate" end time: Feb 02 14:28 EST
+"testTemplate" time elapsed: 00:00:00
+----------------------------------------------------------
+
+2/230 Testing: testGlobalFunction
+2/230 Test: testGlobalFunction
+Command: "/home/jkang/gtsam/build/wrap/tests/testGlobalFunction"
+Directory: /home/jkang/gtsam/build/wrap/tests
+"testGlobalFunction" start time: Feb 02 14:28 EST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"testGlobalFunction" end time: Feb 02 14:28 EST
+"testGlobalFunction" time elapsed: 00:00:00
+----------------------------------------------------------
+
+3/230 Testing: testType
+3/230 Test: testType
+Command: "/home/jkang/gtsam/build/wrap/tests/testType"
+Directory: /home/jkang/gtsam/build/wrap/tests
+"testType" start time: Feb 02 14:28 EST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"testType" end time: Feb 02 14:28 EST
+"testType" time elapsed: 00:00:00
+----------------------------------------------------------
+
+4/230 Testing: testWrap
+4/230 Test: testWrap
+Command: "/home/jkang/gtsam/build/wrap/tests/testWrap"
+Directory: /home/jkang/gtsam/build/wrap/tests
+"testWrap" start time: Feb 02 14:28 EST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.03 sec
+----------------------------------------------------------
+Test Passed.
+"testWrap" end time: Feb 02 14:28 EST
+"testWrap" time elapsed: 00:00:00
+----------------------------------------------------------
+
+5/230 Testing: testClass
+5/230 Test: testClass
+Command: "/home/jkang/gtsam/build/wrap/tests/testClass"
+Directory: /home/jkang/gtsam/build/wrap/tests
+"testClass" start time: Feb 02 14:28 EST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"testClass" end time: Feb 02 14:28 EST
+"testClass" time elapsed: 00:00:00
+----------------------------------------------------------
+
+6/230 Testing: testSpirit
+6/230 Test: testSpirit
+Command: "/home/jkang/gtsam/build/wrap/tests/testSpirit"
+Directory: /home/jkang/gtsam/build/wrap/tests
+"testSpirit" start time: Feb 02 14:28 EST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"testSpirit" end time: Feb 02 14:28 EST
+"testSpirit" time elapsed: 00:00:00
+----------------------------------------------------------
+
+7/230 Testing: testArgument
+7/230 Test: testArgument
+Command: "/home/jkang/gtsam/build/wrap/tests/testArgument"
+Directory: /home/jkang/gtsam/build/wrap/tests
+"testArgument" start time: Feb 02 14:28 EST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"testArgument" end time: Feb 02 14:28 EST
+"testArgument" time elapsed: 00:00:00
+----------------------------------------------------------
+
+8/230 Testing: testMethod
+8/230 Test: testMethod
+Command: "/home/jkang/gtsam/build/wrap/tests/testMethod"
+Directory: /home/jkang/gtsam/build/wrap/tests
+"testMethod" start time: Feb 02 14:28 EST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"testMethod" end time: Feb 02 14:28 EST
+"testMethod" time elapsed: 00:00:00
+----------------------------------------------------------
+
+9/230 Testing: testReturnValue
+9/230 Test: testReturnValue
+Command: "/home/jkang/gtsam/build/wrap/tests/testReturnValue"
+Directory: /home/jkang/gtsam/build/wrap/tests
+"testReturnValue" start time: Feb 02 14:28 EST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"testReturnValue" end time: Feb 02 14:28 EST
+"testReturnValue" time elapsed: 00:00:00
+----------------------------------------------------------
+
+10/230 Testing: testCholesky
+10/230 Test: testCholesky
+Command: "/home/jkang/gtsam/build/gtsam/base/tests/testCholesky"
+Directory: /home/jkang/gtsam/build/gtsam/base/tests
+"testCholesky" start time: Feb 02 14:28 EST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"testCholesky" end time: Feb 02 14:28 EST
+"testCholesky" time elapsed: 00:00:00
+----------------------------------------------------------
+
+11/230 Testing: testFastContainers
+11/230 Test: testFastContainers
+Command: "/home/jkang/gtsam/build/gtsam/base/tests/testFastContainers"
+Directory: /home/jkang/gtsam/build/gtsam/base/tests
+"testFastContainers" start time: Feb 02 14:28 EST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"testFastContainers" end time: Feb 02 14:28 EST
+"testFastContainers" time elapsed: 00:00:00
+----------------------------------------------------------
+
+12/230 Testing: testNumericalDerivative
+12/230 Test: testNumericalDerivative
+Command: "/home/jkang/gtsam/build/gtsam/base/tests/testNumericalDerivative"
+Directory: /home/jkang/gtsam/build/gtsam/base/tests
+"testNumericalDerivative" start time: Feb 02 14:28 EST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"testNumericalDerivative" end time: Feb 02 14:28 EST
+"testNumericalDerivative" time elapsed: 00:00:00
+----------------------------------------------------------
+
+13/230 Testing: testLieVector
+13/230 Test: testLieVector
+Command: "/home/jkang/gtsam/build/gtsam/base/tests/testLieVector"
+Directory: /home/jkang/gtsam/build/gtsam/base/tests
+"testLieVector" start time: Feb 02 14:28 EST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"testLieVector" end time: Feb 02 14:28 EST
+"testLieVector" time elapsed: 00:00:00
+----------------------------------------------------------
+
+14/230 Testing: testSymmetricBlockMatrix
+14/230 Test: testSymmetricBlockMatrix
+Command: "/home/jkang/gtsam/build/gtsam/base/tests/testSymmetricBlockMatrix"
+Directory: /home/jkang/gtsam/build/gtsam/base/tests
+"testSymmetricBlockMatrix" start time: Feb 02 14:28 EST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"testSymmetricBlockMatrix" end time: Feb 02 14:28 EST
+"testSymmetricBlockMatrix" time elapsed: 00:00:00
+----------------------------------------------------------
+
+15/230 Testing: testVerticalBlockMatrix
+15/230 Test: testVerticalBlockMatrix
+Command: "/home/jkang/gtsam/build/gtsam/base/tests/testVerticalBlockMatrix"
+Directory: /home/jkang/gtsam/build/gtsam/base/tests
+"testVerticalBlockMatrix" start time: Feb 02 14:28 EST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"testVerticalBlockMatrix" end time: Feb 02 14:28 EST
+"testVerticalBlockMatrix" time elapsed: 00:00:00
+----------------------------------------------------------
+
+16/230 Testing: testSerializationBase
+16/230 Test: testSerializationBase
+Command: "/home/jkang/gtsam/build/gtsam/base/tests/testSerializationBase"
+Directory: /home/jkang/gtsam/build/gtsam/base/tests
+"testSerializationBase" start time: Feb 02 14:28 EST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"testSerializationBase" end time: Feb 02 14:28 EST
+"testSerializationBase" time elapsed: 00:00:00
+----------------------------------------------------------
+
+17/230 Testing: testOptionalJacobian
+17/230 Test: testOptionalJacobian
+Command: "/home/jkang/gtsam/build/gtsam/base/tests/testOptionalJacobian"
+Directory: /home/jkang/gtsam/build/gtsam/base/tests
+"testOptionalJacobian" start time: Feb 02 14:28 EST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"testOptionalJacobian" end time: Feb 02 14:28 EST
+"testOptionalJacobian" time elapsed: 00:00:00
+----------------------------------------------------------
+
+18/230 Testing: testLieScalar
+18/230 Test: testLieScalar
+Command: "/home/jkang/gtsam/build/gtsam/base/tests/testLieScalar"
+Directory: /home/jkang/gtsam/build/gtsam/base/tests
+"testLieScalar" start time: Feb 02 14:28 EST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"testLieScalar" end time: Feb 02 14:28 EST
+"testLieScalar" time elapsed: 00:00:00
+----------------------------------------------------------
+
+19/230 Testing: testLieMatrix
+19/230 Test: testLieMatrix
+Command: "/home/jkang/gtsam/build/gtsam/base/tests/testLieMatrix"
+Directory: /home/jkang/gtsam/build/gtsam/base/tests
+"testLieMatrix" start time: Feb 02 14:28 EST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.03 sec
+----------------------------------------------------------
+Test Passed.
+"testLieMatrix" end time: Feb 02 14:28 EST
+"testLieMatrix" time elapsed: 00:00:00
+----------------------------------------------------------
+
+20/230 Testing: testDebug
+20/230 Test: testDebug
+Command: "/home/jkang/gtsam/build/gtsam/base/tests/testDebug"
+Directory: /home/jkang/gtsam/build/gtsam/base/tests
+"testDebug" start time: Feb 02 14:28 EST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"testDebug" end time: Feb 02 14:28 EST
+"testDebug" time elapsed: 00:00:00
+----------------------------------------------------------
+
+21/230 Testing: testGroup
+21/230 Test: testGroup
+Command: "/home/jkang/gtsam/build/gtsam/base/tests/testGroup"
+Directory: /home/jkang/gtsam/build/gtsam/base/tests
+"testGroup" start time: Feb 02 14:28 EST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"testGroup" end time: Feb 02 14:28 EST
+"testGroup" time elapsed: 00:00:00
+----------------------------------------------------------
+
+22/230 Testing: testVector
+22/230 Test: testVector
+Command: "/home/jkang/gtsam/build/gtsam/base/tests/testVector"
+Directory: /home/jkang/gtsam/build/gtsam/base/tests
+"testVector" start time: Feb 02 14:28 EST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"testVector" end time: Feb 02 14:28 EST
+"testVector" time elapsed: 00:00:00
+----------------------------------------------------------
+
+23/230 Testing: testTestableAssertions
+23/230 Test: testTestableAssertions
+Command: "/home/jkang/gtsam/build/gtsam/base/tests/testTestableAssertions"
+Directory: /home/jkang/gtsam/build/gtsam/base/tests
+"testTestableAssertions" start time: Feb 02 14:28 EST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"testTestableAssertions" end time: Feb 02 14:28 EST
+"testTestableAssertions" time elapsed: 00:00:00
+----------------------------------------------------------
+
+24/230 Testing: testMatrix
+24/230 Test: testMatrix
+Command: "/home/jkang/gtsam/build/gtsam/base/tests/testMatrix"
+Directory: /home/jkang/gtsam/build/gtsam/base/tests
+"testMatrix" start time: Feb 02 14:28 EST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"testMatrix" end time: Feb 02 14:28 EST
+"testMatrix" time elapsed: 00:00:00
+----------------------------------------------------------
+
+25/230 Testing: testTreeTraversal
+25/230 Test: testTreeTraversal
+Command: "/home/jkang/gtsam/build/gtsam/base/tests/testTreeTraversal"
+Directory: /home/jkang/gtsam/build/gtsam/base/tests
+"testTreeTraversal" start time: Feb 02 14:28 EST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"testTreeTraversal" end time: Feb 02 14:28 EST
+"testTreeTraversal" time elapsed: 00:00:00
+----------------------------------------------------------
+
+26/230 Testing: testDSFVector
+26/230 Test: testDSFVector
+Command: "/home/jkang/gtsam/build/gtsam/base/tests/testDSFVector"
+Directory: /home/jkang/gtsam/build/gtsam/base/tests
+"testDSFVector" start time: Feb 02 14:28 EST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"testDSFVector" end time: Feb 02 14:28 EST
+"testDSFVector" time elapsed: 00:00:00
+----------------------------------------------------------
+
+27/230 Testing: testCal3Unified
+27/230 Test: testCal3Unified
+Command: "/home/jkang/gtsam/build/gtsam/geometry/tests/testCal3Unified"
+Directory: /home/jkang/gtsam/build/gtsam/geometry/tests
+"testCal3Unified" start time: Feb 02 14:28 EST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"testCal3Unified" end time: Feb 02 14:28 EST
+"testCal3Unified" time elapsed: 00:00:00
+----------------------------------------------------------
+
+28/230 Testing: testBearingRange
+28/230 Test: testBearingRange
+Command: "/home/jkang/gtsam/build/gtsam/geometry/tests/testBearingRange"
+Directory: /home/jkang/gtsam/build/gtsam/geometry/tests
+"testBearingRange" start time: Feb 02 14:28 EST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.03 sec
+----------------------------------------------------------
+Test Passed.
+"testBearingRange" end time: Feb 02 14:28 EST
+"testBearingRange" time elapsed: 00:00:00
+----------------------------------------------------------
+
+29/230 Testing: testTriangulation
+29/230 Test: testTriangulation
+Command: "/home/jkang/gtsam/build/gtsam/geometry/tests/testTriangulation"
+Directory: /home/jkang/gtsam/build/gtsam/geometry/tests
+"testTriangulation" start time: Feb 02 14:28 EST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"testTriangulation" end time: Feb 02 14:28 EST
+"testTriangulation" time elapsed: 00:00:00
+----------------------------------------------------------
+
+30/230 Testing: testEssentialMatrix
+30/230 Test: testEssentialMatrix
+Command: "/home/jkang/gtsam/build/gtsam/geometry/tests/testEssentialMatrix"
+Directory: /home/jkang/gtsam/build/gtsam/geometry/tests
+"testEssentialMatrix" start time: Feb 02 14:28 EST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"testEssentialMatrix" end time: Feb 02 14:28 EST
+"testEssentialMatrix" time elapsed: 00:00:00
+----------------------------------------------------------
+
+31/230 Testing: testCameraSet
+31/230 Test: testCameraSet
+Command: "/home/jkang/gtsam/build/gtsam/geometry/tests/testCameraSet"
+Directory: /home/jkang/gtsam/build/gtsam/geometry/tests
+"testCameraSet" start time: Feb 02 14:28 EST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"testCameraSet" end time: Feb 02 14:28 EST
+"testCameraSet" time elapsed: 00:00:00
+----------------------------------------------------------
+
+32/230 Testing: testRot2
+32/230 Test: testRot2
+Command: "/home/jkang/gtsam/build/gtsam/geometry/tests/testRot2"
+Directory: /home/jkang/gtsam/build/gtsam/geometry/tests
+"testRot2" start time: Feb 02 14:28 EST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"testRot2" end time: Feb 02 14:28 EST
+"testRot2" time elapsed: 00:00:00
+----------------------------------------------------------
+
+33/230 Testing: testStereoCamera
+33/230 Test: testStereoCamera
+Command: "/home/jkang/gtsam/build/gtsam/geometry/tests/testStereoCamera"
+Directory: /home/jkang/gtsam/build/gtsam/geometry/tests
+"testStereoCamera" start time: Feb 02 14:28 EST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"testStereoCamera" end time: Feb 02 14:28 EST
+"testStereoCamera" time elapsed: 00:00:00
+----------------------------------------------------------
+
+34/230 Testing: testCyclic
+34/230 Test: testCyclic
+Command: "/home/jkang/gtsam/build/gtsam/geometry/tests/testCyclic"
+Directory: /home/jkang/gtsam/build/gtsam/geometry/tests
+"testCyclic" start time: Feb 02 14:28 EST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"testCyclic" end time: Feb 02 14:28 EST
+"testCyclic" time elapsed: 00:00:00
+----------------------------------------------------------
+
+35/230 Testing: testCal3_S2
+35/230 Test: testCal3_S2
+Command: "/home/jkang/gtsam/build/gtsam/geometry/tests/testCal3_S2"
+Directory: /home/jkang/gtsam/build/gtsam/geometry/tests
+"testCal3_S2" start time: Feb 02 14:28 EST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"testCal3_S2" end time: Feb 02 14:28 EST
+"testCal3_S2" time elapsed: 00:00:00
+----------------------------------------------------------
+
+36/230 Testing: testRot3
+36/230 Test: testRot3
+Command: "/home/jkang/gtsam/build/gtsam/geometry/tests/testRot3"
+Directory: /home/jkang/gtsam/build/gtsam/geometry/tests
+"testRot3" start time: Feb 02 14:28 EST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.03 sec
+----------------------------------------------------------
+Test Passed.
+"testRot3" end time: Feb 02 14:28 EST
+"testRot3" time elapsed: 00:00:00
+----------------------------------------------------------
+
+37/230 Testing: testSimpleCamera
+37/230 Test: testSimpleCamera
+Command: "/home/jkang/gtsam/build/gtsam/geometry/tests/testSimpleCamera"
+Directory: /home/jkang/gtsam/build/gtsam/geometry/tests
+"testSimpleCamera" start time: Feb 02 14:28 EST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"testSimpleCamera" end time: Feb 02 14:28 EST
+"testSimpleCamera" time elapsed: 00:00:00
+----------------------------------------------------------
+
+38/230 Testing: testRot3M
+38/230 Test: testRot3M
+Command: "/home/jkang/gtsam/build/gtsam/geometry/tests/testRot3M"
+Directory: /home/jkang/gtsam/build/gtsam/geometry/tests
+"testRot3M" start time: Feb 02 14:28 EST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"testRot3M" end time: Feb 02 14:28 EST
+"testRot3M" time elapsed: 00:00:00
+----------------------------------------------------------
+
+39/230 Testing: testPinholePose
+39/230 Test: testPinholePose
+Command: "/home/jkang/gtsam/build/gtsam/geometry/tests/testPinholePose"
+Directory: /home/jkang/gtsam/build/gtsam/geometry/tests
+"testPinholePose" start time: Feb 02 14:28 EST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"testPinholePose" end time: Feb 02 14:28 EST
+"testPinholePose" time elapsed: 00:00:00
+----------------------------------------------------------
+
+40/230 Testing: testSerializationGeometry
+40/230 Test: testSerializationGeometry
+Command: "/home/jkang/gtsam/build/gtsam/geometry/tests/testSerializationGeometry"
+Directory: /home/jkang/gtsam/build/gtsam/geometry/tests
+"testSerializationGeometry" start time: Feb 02 14:28 EST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"testSerializationGeometry" end time: Feb 02 14:28 EST
+"testSerializationGeometry" time elapsed: 00:00:00
+----------------------------------------------------------
+
+41/230 Testing: testPoint2
+41/230 Test: testPoint2
+Command: "/home/jkang/gtsam/build/gtsam/geometry/tests/testPoint2"
+Directory: /home/jkang/gtsam/build/gtsam/geometry/tests
+"testPoint2" start time: Feb 02 14:28 EST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"testPoint2" end time: Feb 02 14:28 EST
+"testPoint2" time elapsed: 00:00:00
+----------------------------------------------------------
+
+42/230 Testing: testCal3DS2
+42/230 Test: testCal3DS2
+Command: "/home/jkang/gtsam/build/gtsam/geometry/tests/testCal3DS2"
+Directory: /home/jkang/gtsam/build/gtsam/geometry/tests
+"testCal3DS2" start time: Feb 02 14:28 EST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"testCal3DS2" end time: Feb 02 14:28 EST
+"testCal3DS2" time elapsed: 00:00:00
+----------------------------------------------------------
+
+43/230 Testing: testPinholeCamera
+43/230 Test: testPinholeCamera
+Command: "/home/jkang/gtsam/build/gtsam/geometry/tests/testPinholeCamera"
+Directory: /home/jkang/gtsam/build/gtsam/geometry/tests
+"testPinholeCamera" start time: Feb 02 14:28 EST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"testPinholeCamera" end time: Feb 02 14:28 EST
+"testPinholeCamera" time elapsed: 00:00:00
+----------------------------------------------------------
+
+44/230 Testing: testQuaternion
+44/230 Test: testQuaternion
+Command: "/home/jkang/gtsam/build/gtsam/geometry/tests/testQuaternion"
+Directory: /home/jkang/gtsam/build/gtsam/geometry/tests
+"testQuaternion" start time: Feb 02 14:28 EST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"testQuaternion" end time: Feb 02 14:28 EST
+"testQuaternion" time elapsed: 00:00:00
+----------------------------------------------------------
+
+45/230 Testing: testCalibratedCamera
+45/230 Test: testCalibratedCamera
+Command: "/home/jkang/gtsam/build/gtsam/geometry/tests/testCalibratedCamera"
+Directory: /home/jkang/gtsam/build/gtsam/geometry/tests
+"testCalibratedCamera" start time: Feb 02 14:28 EST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.03 sec
+----------------------------------------------------------
+Test Passed.
+"testCalibratedCamera" end time: Feb 02 14:28 EST
+"testCalibratedCamera" time elapsed: 00:00:00
+----------------------------------------------------------
+
+46/230 Testing: testRot3Q
+46/230 Test: testRot3Q
+Command: "/home/jkang/gtsam/build/gtsam/geometry/tests/testRot3Q"
+Directory: /home/jkang/gtsam/build/gtsam/geometry/tests
+"testRot3Q" start time: Feb 02 14:28 EST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"testRot3Q" end time: Feb 02 14:28 EST
+"testRot3Q" time elapsed: 00:00:00
+----------------------------------------------------------
+
+47/230 Testing: testPose3
+47/230 Test: testPose3
+Command: "/home/jkang/gtsam/build/gtsam/geometry/tests/testPose3"
+Directory: /home/jkang/gtsam/build/gtsam/geometry/tests
+"testPose3" start time: Feb 02 14:28 EST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"testPose3" end time: Feb 02 14:28 EST
+"testPose3" time elapsed: 00:00:00
+----------------------------------------------------------
+
+48/230 Testing: testUnit3
+48/230 Test: testUnit3
+Command: "/home/jkang/gtsam/build/gtsam/geometry/tests/testUnit3"
+Directory: /home/jkang/gtsam/build/gtsam/geometry/tests
+"testUnit3" start time: Feb 02 14:28 EST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.03 sec
+----------------------------------------------------------
+Test Passed.
+"testUnit3" end time: Feb 02 14:28 EST
+"testUnit3" time elapsed: 00:00:00
+----------------------------------------------------------
+
+49/230 Testing: testPoint3
+49/230 Test: testPoint3
+Command: "/home/jkang/gtsam/build/gtsam/geometry/tests/testPoint3"
+Directory: /home/jkang/gtsam/build/gtsam/geometry/tests
+"testPoint3" start time: Feb 02 14:28 EST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"testPoint3" end time: Feb 02 14:28 EST
+"testPoint3" time elapsed: 00:00:00
+----------------------------------------------------------
+
+50/230 Testing: testOrientedPlane3
+50/230 Test: testOrientedPlane3
+Command: "/home/jkang/gtsam/build/gtsam/geometry/tests/testOrientedPlane3"
+Directory: /home/jkang/gtsam/build/gtsam/geometry/tests
+"testOrientedPlane3" start time: Feb 02 14:28 EST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.87 sec
+----------------------------------------------------------
+Test Passed.
+"testOrientedPlane3" end time: Feb 02 14:28 EST
+"testOrientedPlane3" time elapsed: 00:00:00
+----------------------------------------------------------
+
+51/230 Testing: testStereoPoint2
+51/230 Test: testStereoPoint2
+Command: "/home/jkang/gtsam/build/gtsam/geometry/tests/testStereoPoint2"
+Directory: /home/jkang/gtsam/build/gtsam/geometry/tests
+"testStereoPoint2" start time: Feb 02 14:28 EST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"testStereoPoint2" end time: Feb 02 14:28 EST
+"testStereoPoint2" time elapsed: 00:00:00
+----------------------------------------------------------
+
+52/230 Testing: testCal3Bundler
+52/230 Test: testCal3Bundler
+Command: "/home/jkang/gtsam/build/gtsam/geometry/tests/testCal3Bundler"
+Directory: /home/jkang/gtsam/build/gtsam/geometry/tests
+"testCal3Bundler" start time: Feb 02 14:28 EST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.03 sec
+----------------------------------------------------------
+Test Passed.
+"testCal3Bundler" end time: Feb 02 14:28 EST
+"testCal3Bundler" time elapsed: 00:00:00
+----------------------------------------------------------
+
+53/230 Testing: testPose2
+53/230 Test: testPose2
+Command: "/home/jkang/gtsam/build/gtsam/geometry/tests/testPose2"
+Directory: /home/jkang/gtsam/build/gtsam/geometry/tests
+"testPose2" start time: Feb 02 14:28 EST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"testPose2" end time: Feb 02 14:28 EST
+"testPose2" time elapsed: 00:00:00
+----------------------------------------------------------
+
+54/230 Testing: testSO3
+54/230 Test: testSO3
+Command: "/home/jkang/gtsam/build/gtsam/geometry/tests/testSO3"
+Directory: /home/jkang/gtsam/build/gtsam/geometry/tests
+"testSO3" start time: Feb 02 14:28 EST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"testSO3" end time: Feb 02 14:28 EST
+"testSO3" time elapsed: 00:00:00
+----------------------------------------------------------
+
+55/230 Testing: testPinholeSet
+55/230 Test: testPinholeSet
+Command: "/home/jkang/gtsam/build/gtsam/geometry/tests/testPinholeSet"
+Directory: /home/jkang/gtsam/build/gtsam/geometry/tests
+"testPinholeSet" start time: Feb 02 14:28 EST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"testPinholeSet" end time: Feb 02 14:28 EST
+"testPinholeSet" time elapsed: 00:00:00
+----------------------------------------------------------
+
+56/230 Testing: testVariableSlots
+56/230 Test: testVariableSlots
+Command: "/home/jkang/gtsam/build/gtsam/inference/tests/testVariableSlots"
+Directory: /home/jkang/gtsam/build/gtsam/inference/tests
+"testVariableSlots" start time: Feb 02 14:28 EST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"testVariableSlots" end time: Feb 02 14:28 EST
+"testVariableSlots" time elapsed: 00:00:00
+----------------------------------------------------------
+
+57/230 Testing: testKey
+57/230 Test: testKey
+Command: "/home/jkang/gtsam/build/gtsam/inference/tests/testKey"
+Directory: /home/jkang/gtsam/build/gtsam/inference/tests
+"testKey" start time: Feb 02 14:28 EST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"testKey" end time: Feb 02 14:28 EST
+"testKey" time elapsed: 00:00:00
+----------------------------------------------------------
+
+58/230 Testing: testLabeledSymbol
+58/230 Test: testLabeledSymbol
+Command: "/home/jkang/gtsam/build/gtsam/inference/tests/testLabeledSymbol"
+Directory: /home/jkang/gtsam/build/gtsam/inference/tests
+"testLabeledSymbol" start time: Feb 02 14:28 EST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"testLabeledSymbol" end time: Feb 02 14:28 EST
+"testLabeledSymbol" time elapsed: 00:00:00
+----------------------------------------------------------
+
+59/230 Testing: testOrdering
+59/230 Test: testOrdering
+Command: "/home/jkang/gtsam/build/gtsam/inference/tests/testOrdering"
+Directory: /home/jkang/gtsam/build/gtsam/inference/tests
+"testOrdering" start time: Feb 02 14:28 EST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"testOrdering" end time: Feb 02 14:28 EST
+"testOrdering" time elapsed: 00:00:00
+----------------------------------------------------------
+
+60/230 Testing: testVariableIndex
+60/230 Test: testVariableIndex
+Command: "/home/jkang/gtsam/build/gtsam/symbolic/tests/testVariableIndex"
+Directory: /home/jkang/gtsam/build/gtsam/symbolic/tests
+"testVariableIndex" start time: Feb 02 14:28 EST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"testVariableIndex" end time: Feb 02 14:28 EST
+"testVariableIndex" time elapsed: 00:00:00
+----------------------------------------------------------
+
+61/230 Testing: testSerializationSymbolic
+61/230 Test: testSerializationSymbolic
+Command: "/home/jkang/gtsam/build/gtsam/symbolic/tests/testSerializationSymbolic"
+Directory: /home/jkang/gtsam/build/gtsam/symbolic/tests
+"testSerializationSymbolic" start time: Feb 02 14:28 EST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"testSerializationSymbolic" end time: Feb 02 14:28 EST
+"testSerializationSymbolic" time elapsed: 00:00:00
+----------------------------------------------------------
+
+62/230 Testing: testSymbolicConditional
+62/230 Test: testSymbolicConditional
+Command: "/home/jkang/gtsam/build/gtsam/symbolic/tests/testSymbolicConditional"
+Directory: /home/jkang/gtsam/build/gtsam/symbolic/tests
+"testSymbolicConditional" start time: Feb 02 14:28 EST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"testSymbolicConditional" end time: Feb 02 14:28 EST
+"testSymbolicConditional" time elapsed: 00:00:00
+----------------------------------------------------------
+
+63/230 Testing: testSymbolicFactorGraph
+63/230 Test: testSymbolicFactorGraph
+Command: "/home/jkang/gtsam/build/gtsam/symbolic/tests/testSymbolicFactorGraph"
+Directory: /home/jkang/gtsam/build/gtsam/symbolic/tests
+"testSymbolicFactorGraph" start time: Feb 02 14:28 EST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"testSymbolicFactorGraph" end time: Feb 02 14:28 EST
+"testSymbolicFactorGraph" time elapsed: 00:00:00
+----------------------------------------------------------
+
+64/230 Testing: testSymbolicFactor
+64/230 Test: testSymbolicFactor
+Command: "/home/jkang/gtsam/build/gtsam/symbolic/tests/testSymbolicFactor"
+Directory: /home/jkang/gtsam/build/gtsam/symbolic/tests
+"testSymbolicFactor" start time: Feb 02 14:28 EST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"testSymbolicFactor" end time: Feb 02 14:28 EST
+"testSymbolicFactor" time elapsed: 00:00:00
+----------------------------------------------------------
+
+65/230 Testing: testSymbolicISAM
+65/230 Test: testSymbolicISAM
+Command: "/home/jkang/gtsam/build/gtsam/symbolic/tests/testSymbolicISAM"
+Directory: /home/jkang/gtsam/build/gtsam/symbolic/tests
+"testSymbolicISAM" start time: Feb 02 14:28 EST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"testSymbolicISAM" end time: Feb 02 14:28 EST
+"testSymbolicISAM" time elapsed: 00:00:00
+----------------------------------------------------------
+
+66/230 Testing: testSymbolicBayesNet
+66/230 Test: testSymbolicBayesNet
+Command: "/home/jkang/gtsam/build/gtsam/symbolic/tests/testSymbolicBayesNet"
+Directory: /home/jkang/gtsam/build/gtsam/symbolic/tests
+"testSymbolicBayesNet" start time: Feb 02 14:28 EST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"testSymbolicBayesNet" end time: Feb 02 14:28 EST
+"testSymbolicBayesNet" time elapsed: 00:00:00
+----------------------------------------------------------
+
+67/230 Testing: testSymbolicEliminationTree
+67/230 Test: testSymbolicEliminationTree
+Command: "/home/jkang/gtsam/build/gtsam/symbolic/tests/testSymbolicEliminationTree"
+Directory: /home/jkang/gtsam/build/gtsam/symbolic/tests
+"testSymbolicEliminationTree" start time: Feb 02 14:28 EST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"testSymbolicEliminationTree" end time: Feb 02 14:28 EST
+"testSymbolicEliminationTree" time elapsed: 00:00:00
+----------------------------------------------------------
+
+68/230 Testing: testSymbolicJunctionTree
+68/230 Test: testSymbolicJunctionTree
+Command: "/home/jkang/gtsam/build/gtsam/symbolic/tests/testSymbolicJunctionTree"
+Directory: /home/jkang/gtsam/build/gtsam/symbolic/tests
+"testSymbolicJunctionTree" start time: Feb 02 14:28 EST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"testSymbolicJunctionTree" end time: Feb 02 14:28 EST
+"testSymbolicJunctionTree" time elapsed: 00:00:00
+----------------------------------------------------------
+
+69/230 Testing: testSymbolicBayesTree
+69/230 Test: testSymbolicBayesTree
+Command: "/home/jkang/gtsam/build/gtsam/symbolic/tests/testSymbolicBayesTree"
+Directory: /home/jkang/gtsam/build/gtsam/symbolic/tests
+"testSymbolicBayesTree" start time: Feb 02 14:28 EST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.03 sec
+----------------------------------------------------------
+Test Passed.
+"testSymbolicBayesTree" end time: Feb 02 14:28 EST
+"testSymbolicBayesTree" time elapsed: 00:00:00
+----------------------------------------------------------
+
+70/230 Testing: testDiscreteBayesTree
+70/230 Test: testDiscreteBayesTree
+Command: "/home/jkang/gtsam/build/gtsam/discrete/tests/testDiscreteBayesTree"
+Directory: /home/jkang/gtsam/build/gtsam/discrete/tests
+"testDiscreteBayesTree" start time: Feb 02 14:28 EST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"testDiscreteBayesTree" end time: Feb 02 14:28 EST
+"testDiscreteBayesTree" time elapsed: 00:00:00
+----------------------------------------------------------
+
+71/230 Testing: testDecisionTreeFactor
+71/230 Test: testDecisionTreeFactor
+Command: "/home/jkang/gtsam/build/gtsam/discrete/tests/testDecisionTreeFactor"
+Directory: /home/jkang/gtsam/build/gtsam/discrete/tests
+"testDecisionTreeFactor" start time: Feb 02 14:28 EST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"testDecisionTreeFactor" end time: Feb 02 14:28 EST
+"testDecisionTreeFactor" time elapsed: 00:00:00
+----------------------------------------------------------
+
+72/230 Testing: testDecisionTree
+72/230 Test: testDecisionTree
+Command: "/home/jkang/gtsam/build/gtsam/discrete/tests/testDecisionTree"
+Directory: /home/jkang/gtsam/build/gtsam/discrete/tests
+"testDecisionTree" start time: Feb 02 14:28 EST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"testDecisionTree" end time: Feb 02 14:28 EST
+"testDecisionTree" time elapsed: 00:00:00
+----------------------------------------------------------
+
+73/230 Testing: testDiscreteMarginals
+73/230 Test: testDiscreteMarginals
+Command: "/home/jkang/gtsam/build/gtsam/discrete/tests/testDiscreteMarginals"
+Directory: /home/jkang/gtsam/build/gtsam/discrete/tests
+"testDiscreteMarginals" start time: Feb 02 14:28 EST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"testDiscreteMarginals" end time: Feb 02 14:28 EST
+"testDiscreteMarginals" time elapsed: 00:00:00
+----------------------------------------------------------
+
+74/230 Testing: testSignature
+74/230 Test: testSignature
+Command: "/home/jkang/gtsam/build/gtsam/discrete/tests/testSignature"
+Directory: /home/jkang/gtsam/build/gtsam/discrete/tests
+"testSignature" start time: Feb 02 14:28 EST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.03 sec
+----------------------------------------------------------
+Test Passed.
+"testSignature" end time: Feb 02 14:28 EST
+"testSignature" time elapsed: 00:00:00
+----------------------------------------------------------
+
+75/230 Testing: testDiscreteFactorGraph
+75/230 Test: testDiscreteFactorGraph
+Command: "/home/jkang/gtsam/build/gtsam/discrete/tests/testDiscreteFactorGraph"
+Directory: /home/jkang/gtsam/build/gtsam/discrete/tests
+"testDiscreteFactorGraph" start time: Feb 02 14:28 EST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"testDiscreteFactorGraph" end time: Feb 02 14:28 EST
+"testDiscreteFactorGraph" time elapsed: 00:00:00
+----------------------------------------------------------
+
+76/230 Testing: testDiscreteBayesNet
+76/230 Test: testDiscreteBayesNet
+Command: "/home/jkang/gtsam/build/gtsam/discrete/tests/testDiscreteBayesNet"
+Directory: /home/jkang/gtsam/build/gtsam/discrete/tests
+"testDiscreteBayesNet" start time: Feb 02 14:28 EST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"testDiscreteBayesNet" end time: Feb 02 14:28 EST
+"testDiscreteBayesNet" time elapsed: 00:00:00
+----------------------------------------------------------
+
+77/230 Testing: testAlgebraicDecisionTree
+77/230 Test: testAlgebraicDecisionTree
+Command: "/home/jkang/gtsam/build/gtsam/discrete/tests/testAlgebraicDecisionTree"
+Directory: /home/jkang/gtsam/build/gtsam/discrete/tests
+"testAlgebraicDecisionTree" start time: Feb 02 14:28 EST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"testAlgebraicDecisionTree" end time: Feb 02 14:28 EST
+"testAlgebraicDecisionTree" time elapsed: 00:00:00
+----------------------------------------------------------
+
+78/230 Testing: testDiscreteFactor
+78/230 Test: testDiscreteFactor
+Command: "/home/jkang/gtsam/build/gtsam/discrete/tests/testDiscreteFactor"
+Directory: /home/jkang/gtsam/build/gtsam/discrete/tests
+"testDiscreteFactor" start time: Feb 02 14:28 EST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"testDiscreteFactor" end time: Feb 02 14:28 EST
+"testDiscreteFactor" time elapsed: 00:00:00
+----------------------------------------------------------
+
+79/230 Testing: testDiscreteConditional
+79/230 Test: testDiscreteConditional
+Command: "/home/jkang/gtsam/build/gtsam/discrete/tests/testDiscreteConditional"
+Directory: /home/jkang/gtsam/build/gtsam/discrete/tests
+"testDiscreteConditional" start time: Feb 02 14:28 EST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"testDiscreteConditional" end time: Feb 02 14:28 EST
+"testDiscreteConditional" time elapsed: 00:00:00
+----------------------------------------------------------
+
+80/230 Testing: testHessianFactor
+80/230 Test: testHessianFactor
+Command: "/home/jkang/gtsam/build/gtsam/linear/tests/testHessianFactor"
+Directory: /home/jkang/gtsam/build/gtsam/linear/tests
+"testHessianFactor" start time: Feb 02 14:28 EST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"testHessianFactor" end time: Feb 02 14:28 EST
+"testHessianFactor" time elapsed: 00:00:00
+----------------------------------------------------------
+
+81/230 Testing: testGaussianBayesNet
+81/230 Test: testGaussianBayesNet
+Command: "/home/jkang/gtsam/build/gtsam/linear/tests/testGaussianBayesNet"
+Directory: /home/jkang/gtsam/build/gtsam/linear/tests
+"testGaussianBayesNet" start time: Feb 02 14:28 EST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"testGaussianBayesNet" end time: Feb 02 14:28 EST
+"testGaussianBayesNet" time elapsed: 00:00:00
+----------------------------------------------------------
+
+82/230 Testing: testSampler
+82/230 Test: testSampler
+Command: "/home/jkang/gtsam/build/gtsam/linear/tests/testSampler"
+Directory: /home/jkang/gtsam/build/gtsam/linear/tests
+"testSampler" start time: Feb 02 14:28 EST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.03 sec
+----------------------------------------------------------
+Test Passed.
+"testSampler" end time: Feb 02 14:28 EST
+"testSampler" time elapsed: 00:00:00
+----------------------------------------------------------
+
+83/230 Testing: testErrors
+83/230 Test: testErrors
+Command: "/home/jkang/gtsam/build/gtsam/linear/tests/testErrors"
+Directory: /home/jkang/gtsam/build/gtsam/linear/tests
+"testErrors" start time: Feb 02 14:28 EST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"testErrors" end time: Feb 02 14:28 EST
+"testErrors" time elapsed: 00:00:00
+----------------------------------------------------------
+
+84/230 Testing: testGaussianBayesTree
+84/230 Test: testGaussianBayesTree
+Command: "/home/jkang/gtsam/build/gtsam/linear/tests/testGaussianBayesTree"
+Directory: /home/jkang/gtsam/build/gtsam/linear/tests
+"testGaussianBayesTree" start time: Feb 02 14:28 EST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"testGaussianBayesTree" end time: Feb 02 14:28 EST
+"testGaussianBayesTree" time elapsed: 00:00:00
+----------------------------------------------------------
+
+85/230 Testing: testRegularHessianFactor
+85/230 Test: testRegularHessianFactor
+Command: "/home/jkang/gtsam/build/gtsam/linear/tests/testRegularHessianFactor"
+Directory: /home/jkang/gtsam/build/gtsam/linear/tests
+"testRegularHessianFactor" start time: Feb 02 14:28 EST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"testRegularHessianFactor" end time: Feb 02 14:28 EST
+"testRegularHessianFactor" time elapsed: 00:00:00
+----------------------------------------------------------
+
+86/230 Testing: testGaussianConditional
+86/230 Test: testGaussianConditional
+Command: "/home/jkang/gtsam/build/gtsam/linear/tests/testGaussianConditional"
+Directory: /home/jkang/gtsam/build/gtsam/linear/tests
+"testGaussianConditional" start time: Feb 02 14:28 EST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"testGaussianConditional" end time: Feb 02 14:28 EST
+"testGaussianConditional" time elapsed: 00:00:00
+----------------------------------------------------------
+
+87/230 Testing: testGaussianDensity
+87/230 Test: testGaussianDensity
+Command: "/home/jkang/gtsam/build/gtsam/linear/tests/testGaussianDensity"
+Directory: /home/jkang/gtsam/build/gtsam/linear/tests
+"testGaussianDensity" start time: Feb 02 14:28 EST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"testGaussianDensity" end time: Feb 02 14:28 EST
+"testGaussianDensity" time elapsed: 00:00:00
+----------------------------------------------------------
+
+88/230 Testing: testSerializationLinear
+88/230 Test: testSerializationLinear
+Command: "/home/jkang/gtsam/build/gtsam/linear/tests/testSerializationLinear"
+Directory: /home/jkang/gtsam/build/gtsam/linear/tests
+"testSerializationLinear" start time: Feb 02 14:28 EST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.03 sec
+----------------------------------------------------------
+Test Passed.
+"testSerializationLinear" end time: Feb 02 14:28 EST
+"testSerializationLinear" time elapsed: 00:00:00
+----------------------------------------------------------
+
+89/230 Testing: testJacobianFactor
+89/230 Test: testJacobianFactor
+Command: "/home/jkang/gtsam/build/gtsam/linear/tests/testJacobianFactor"
+Directory: /home/jkang/gtsam/build/gtsam/linear/tests
+"testJacobianFactor" start time: Feb 02 14:28 EST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"testJacobianFactor" end time: Feb 02 14:28 EST
+"testJacobianFactor" time elapsed: 00:00:00
+----------------------------------------------------------
+
+90/230 Testing: testKalmanFilter
+90/230 Test: testKalmanFilter
+Command: "/home/jkang/gtsam/build/gtsam/linear/tests/testKalmanFilter"
+Directory: /home/jkang/gtsam/build/gtsam/linear/tests
+"testKalmanFilter" start time: Feb 02 14:28 EST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.03 sec
+----------------------------------------------------------
+Test Passed.
+"testKalmanFilter" end time: Feb 02 14:28 EST
+"testKalmanFilter" time elapsed: 00:00:00
+----------------------------------------------------------
+
+91/230 Testing: testScatter
+91/230 Test: testScatter
+Command: "/home/jkang/gtsam/build/gtsam/linear/tests/testScatter"
+Directory: /home/jkang/gtsam/build/gtsam/linear/tests
+"testScatter" start time: Feb 02 14:28 EST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"testScatter" end time: Feb 02 14:28 EST
+"testScatter" time elapsed: 00:00:00
+----------------------------------------------------------
+
+92/230 Testing: testVectorValues
+92/230 Test: testVectorValues
+Command: "/home/jkang/gtsam/build/gtsam/linear/tests/testVectorValues"
+Directory: /home/jkang/gtsam/build/gtsam/linear/tests
+"testVectorValues" start time: Feb 02 14:28 EST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"testVectorValues" end time: Feb 02 14:28 EST
+"testVectorValues" time elapsed: 00:00:00
+----------------------------------------------------------
+
+93/230 Testing: testGaussianFactorGraph
+93/230 Test: testGaussianFactorGraph
+Command: "/home/jkang/gtsam/build/gtsam/linear/tests/testGaussianFactorGraph"
+Directory: /home/jkang/gtsam/build/gtsam/linear/tests
+"testGaussianFactorGraph" start time: Feb 02 14:28 EST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"testGaussianFactorGraph" end time: Feb 02 14:28 EST
+"testGaussianFactorGraph" time elapsed: 00:00:00
+----------------------------------------------------------
+
+94/230 Testing: testRegularJacobianFactor
+94/230 Test: testRegularJacobianFactor
+Command: "/home/jkang/gtsam/build/gtsam/linear/tests/testRegularJacobianFactor"
+Directory: /home/jkang/gtsam/build/gtsam/linear/tests
+"testRegularJacobianFactor" start time: Feb 02 14:28 EST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"testRegularJacobianFactor" end time: Feb 02 14:28 EST
+"testRegularJacobianFactor" time elapsed: 00:00:00
+----------------------------------------------------------
+
+95/230 Testing: testNoiseModel
+95/230 Test: testNoiseModel
+Command: "/home/jkang/gtsam/build/gtsam/linear/tests/testNoiseModel"
+Directory: /home/jkang/gtsam/build/gtsam/linear/tests
+"testNoiseModel" start time: Feb 02 14:28 EST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"testNoiseModel" end time: Feb 02 14:28 EST
+"testNoiseModel" time elapsed: 00:00:00
+----------------------------------------------------------
+
+96/230 Testing: testValues
+96/230 Test: testValues
+Command: "/home/jkang/gtsam/build/gtsam/nonlinear/tests/testValues"
+Directory: /home/jkang/gtsam/build/gtsam/nonlinear/tests
+"testValues" start time: Feb 02 14:28 EST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"testValues" end time: Feb 02 14:28 EST
+"testValues" time elapsed: 00:00:00
+----------------------------------------------------------
+
+97/230 Testing: testSerializationNonlinear
+97/230 Test: testSerializationNonlinear
+Command: "/home/jkang/gtsam/build/gtsam/nonlinear/tests/testSerializationNonlinear"
+Directory: /home/jkang/gtsam/build/gtsam/nonlinear/tests
+"testSerializationNonlinear" start time: Feb 02 14:28 EST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"testSerializationNonlinear" end time: Feb 02 14:28 EST
+"testSerializationNonlinear" time elapsed: 00:00:00
+----------------------------------------------------------
+
+98/230 Testing: testLinearContainerFactor
+98/230 Test: testLinearContainerFactor
+Command: "/home/jkang/gtsam/build/gtsam/nonlinear/tests/testLinearContainerFactor"
+Directory: /home/jkang/gtsam/build/gtsam/nonlinear/tests
+"testLinearContainerFactor" start time: Feb 02 14:28 EST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.03 sec
+----------------------------------------------------------
+Test Passed.
+"testLinearContainerFactor" end time: Feb 02 14:28 EST
+"testLinearContainerFactor" time elapsed: 00:00:00
+----------------------------------------------------------
+
+99/230 Testing: testExecutionTrace
+99/230 Test: testExecutionTrace
+Command: "/home/jkang/gtsam/build/gtsam/nonlinear/tests/testExecutionTrace"
+Directory: /home/jkang/gtsam/build/gtsam/nonlinear/tests
+"testExecutionTrace" start time: Feb 02 14:28 EST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"testExecutionTrace" end time: Feb 02 14:28 EST
+"testExecutionTrace" time elapsed: 00:00:00
+----------------------------------------------------------
+
+100/230 Testing: testCallRecord
+100/230 Test: testCallRecord
+Command: "/home/jkang/gtsam/build/gtsam/nonlinear/tests/testCallRecord"
+Directory: /home/jkang/gtsam/build/gtsam/nonlinear/tests
+"testCallRecord" start time: Feb 02 14:28 EST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"testCallRecord" end time: Feb 02 14:28 EST
+"testCallRecord" time elapsed: 00:00:00
+----------------------------------------------------------
+
+101/230 Testing: testAdaptAutoDiff
+101/230 Test: testAdaptAutoDiff
+Command: "/home/jkang/gtsam/build/gtsam/nonlinear/tests/testAdaptAutoDiff"
+Directory: /home/jkang/gtsam/build/gtsam/nonlinear/tests
+"testAdaptAutoDiff" start time: Feb 02 14:28 EST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"testAdaptAutoDiff" end time: Feb 02 14:28 EST
+"testAdaptAutoDiff" time elapsed: 00:00:00
+----------------------------------------------------------
+
+102/230 Testing: testWhiteNoiseFactor
+102/230 Test: testWhiteNoiseFactor
+Command: "/home/jkang/gtsam/build/gtsam/nonlinear/tests/testWhiteNoiseFactor"
+Directory: /home/jkang/gtsam/build/gtsam/nonlinear/tests
+"testWhiteNoiseFactor" start time: Feb 02 14:28 EST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"testWhiteNoiseFactor" end time: Feb 02 14:28 EST
+"testWhiteNoiseFactor" time elapsed: 00:00:00
+----------------------------------------------------------
+
+103/230 Testing: testExpression
+103/230 Test: testExpression
+Command: "/home/jkang/gtsam/build/gtsam/nonlinear/tests/testExpression"
+Directory: /home/jkang/gtsam/build/gtsam/nonlinear/tests
+"testExpression" start time: Feb 02 14:28 EST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"testExpression" end time: Feb 02 14:28 EST
+"testExpression" time elapsed: 00:00:00
+----------------------------------------------------------
+
+104/230 Testing: testRangeFactor
+104/230 Test: testRangeFactor
+Command: "/home/jkang/gtsam/build/gtsam/sam/tests/testRangeFactor"
+Directory: /home/jkang/gtsam/build/gtsam/sam/tests
+"testRangeFactor" start time: Feb 02 14:28 EST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"testRangeFactor" end time: Feb 02 14:28 EST
+"testRangeFactor" time elapsed: 00:00:00
+----------------------------------------------------------
+
+105/230 Testing: testBearingRangeFactor
+105/230 Test: testBearingRangeFactor
+Command: "/home/jkang/gtsam/build/gtsam/sam/tests/testBearingRangeFactor"
+Directory: /home/jkang/gtsam/build/gtsam/sam/tests
+"testBearingRangeFactor" start time: Feb 02 14:28 EST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"testBearingRangeFactor" end time: Feb 02 14:28 EST
+"testBearingRangeFactor" time elapsed: 00:00:00
+----------------------------------------------------------
+
+106/230 Testing: testBearingFactor
+106/230 Test: testBearingFactor
+Command: "/home/jkang/gtsam/build/gtsam/sam/tests/testBearingFactor"
+Directory: /home/jkang/gtsam/build/gtsam/sam/tests
+"testBearingFactor" start time: Feb 02 14:28 EST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.03 sec
+----------------------------------------------------------
+Test Passed.
+"testBearingFactor" end time: Feb 02 14:28 EST
+"testBearingFactor" time elapsed: 00:00:00
+----------------------------------------------------------
+
+107/230 Testing: testSmartProjectionCameraFactor
+107/230 Test: testSmartProjectionCameraFactor
+Command: "/home/jkang/gtsam/build/gtsam/slam/tests/testSmartProjectionCameraFactor"
+Directory: /home/jkang/gtsam/build/gtsam/slam/tests
+"testSmartProjectionCameraFactor" start time: Feb 02 14:28 EST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.05 sec
+----------------------------------------------------------
+Test Passed.
+"testSmartProjectionCameraFactor" end time: Feb 02 14:28 EST
+"testSmartProjectionCameraFactor" time elapsed: 00:00:00
+----------------------------------------------------------
+
+108/230 Testing: testPriorFactor
+108/230 Test: testPriorFactor
+Command: "/home/jkang/gtsam/build/gtsam/slam/tests/testPriorFactor"
+Directory: /home/jkang/gtsam/build/gtsam/slam/tests
+"testPriorFactor" start time: Feb 02 14:28 EST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"testPriorFactor" end time: Feb 02 14:28 EST
+"testPriorFactor" time elapsed: 00:00:00
+----------------------------------------------------------
+
+109/230 Testing: testEssentialMatrixConstraint
+109/230 Test: testEssentialMatrixConstraint
+Command: "/home/jkang/gtsam/build/gtsam/slam/tests/testEssentialMatrixConstraint"
+Directory: /home/jkang/gtsam/build/gtsam/slam/tests
+"testEssentialMatrixConstraint" start time: Feb 02 14:28 EST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"testEssentialMatrixConstraint" end time: Feb 02 14:28 EST
+"testEssentialMatrixConstraint" time elapsed: 00:00:00
+----------------------------------------------------------
+
+110/230 Testing: testEssentialMatrixFactor
+110/230 Test: testEssentialMatrixFactor
+Command: "/home/jkang/gtsam/build/gtsam/slam/tests/testEssentialMatrixFactor"
+Directory: /home/jkang/gtsam/build/gtsam/slam/tests
+"testEssentialMatrixFactor" start time: Feb 02 14:28 EST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"testEssentialMatrixFactor" end time: Feb 02 14:28 EST
+"testEssentialMatrixFactor" time elapsed: 00:00:00
+----------------------------------------------------------
+
+111/230 Testing: testBetweenFactor
+111/230 Test: testBetweenFactor
+Command: "/home/jkang/gtsam/build/gtsam/slam/tests/testBetweenFactor"
+Directory: /home/jkang/gtsam/build/gtsam/slam/tests
+"testBetweenFactor" start time: Feb 02 14:28 EST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"testBetweenFactor" end time: Feb 02 14:28 EST
+"testBetweenFactor" time elapsed: 00:00:00
+----------------------------------------------------------
+
+112/230 Testing: testSmartFactorBase
+112/230 Test: testSmartFactorBase
+Command: "/home/jkang/gtsam/build/gtsam/slam/tests/testSmartFactorBase"
+Directory: /home/jkang/gtsam/build/gtsam/slam/tests
+"testSmartFactorBase" start time: Feb 02 14:28 EST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"testSmartFactorBase" end time: Feb 02 14:28 EST
+"testSmartFactorBase" time elapsed: 00:00:00
+----------------------------------------------------------
+
+113/230 Testing: testPoseTranslationPrior
+113/230 Test: testPoseTranslationPrior
+Command: "/home/jkang/gtsam/build/gtsam/slam/tests/testPoseTranslationPrior"
+Directory: /home/jkang/gtsam/build/gtsam/slam/tests
+"testPoseTranslationPrior" start time: Feb 02 14:28 EST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"testPoseTranslationPrior" end time: Feb 02 14:28 EST
+"testPoseTranslationPrior" time elapsed: 00:00:00
+----------------------------------------------------------
+
+114/230 Testing: testStereoFactor
+114/230 Test: testStereoFactor
+Command: "/home/jkang/gtsam/build/gtsam/slam/tests/testStereoFactor"
+Directory: /home/jkang/gtsam/build/gtsam/slam/tests
+"testStereoFactor" start time: Feb 02 14:28 EST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.03 sec
+----------------------------------------------------------
+Test Passed.
+"testStereoFactor" end time: Feb 02 14:28 EST
+"testStereoFactor" time elapsed: 00:00:00
+----------------------------------------------------------
+
+115/230 Testing: testRegularImplicitSchurFactor
+115/230 Test: testRegularImplicitSchurFactor
+Command: "/home/jkang/gtsam/build/gtsam/slam/tests/testRegularImplicitSchurFactor"
+Directory: /home/jkang/gtsam/build/gtsam/slam/tests
+"testRegularImplicitSchurFactor" start time: Feb 02 14:28 EST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"testRegularImplicitSchurFactor" end time: Feb 02 14:28 EST
+"testRegularImplicitSchurFactor" time elapsed: 00:00:00
+----------------------------------------------------------
+
+116/230 Testing: testReferenceFrameFactor
+116/230 Test: testReferenceFrameFactor
+Command: "/home/jkang/gtsam/build/gtsam/slam/tests/testReferenceFrameFactor"
+Directory: /home/jkang/gtsam/build/gtsam/slam/tests
+"testReferenceFrameFactor" start time: Feb 02 14:28 EST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"testReferenceFrameFactor" end time: Feb 02 14:28 EST
+"testReferenceFrameFactor" time elapsed: 00:00:00
+----------------------------------------------------------
+
+117/230 Testing: testGeneralSFMFactor
+117/230 Test: testGeneralSFMFactor
+Command: "/home/jkang/gtsam/build/gtsam/slam/tests/testGeneralSFMFactor"
+Directory: /home/jkang/gtsam/build/gtsam/slam/tests
+"testGeneralSFMFactor" start time: Feb 02 14:28 EST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.04 sec
+----------------------------------------------------------
+Test Passed.
+"testGeneralSFMFactor" end time: Feb 02 14:28 EST
+"testGeneralSFMFactor" time elapsed: 00:00:00
+----------------------------------------------------------
+
+118/230 Testing: testTriangulationFactor
+118/230 Test: testTriangulationFactor
+Command: "/home/jkang/gtsam/build/gtsam/slam/tests/testTriangulationFactor"
+Directory: /home/jkang/gtsam/build/gtsam/slam/tests
+"testTriangulationFactor" start time: Feb 02 14:28 EST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"testTriangulationFactor" end time: Feb 02 14:28 EST
+"testTriangulationFactor" time elapsed: 00:00:00
+----------------------------------------------------------
+
+119/230 Testing: testSlamExpressions
+119/230 Test: testSlamExpressions
+Command: "/home/jkang/gtsam/build/gtsam/slam/tests/testSlamExpressions"
+Directory: /home/jkang/gtsam/build/gtsam/slam/tests
+"testSlamExpressions" start time: Feb 02 14:28 EST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.04 sec
+----------------------------------------------------------
+Test Passed.
+"testSlamExpressions" end time: Feb 02 14:28 EST
+"testSlamExpressions" time elapsed: 00:00:00
+----------------------------------------------------------
+
+120/230 Testing: testGeneralSFMFactor_Cal3Bundler
+120/230 Test: testGeneralSFMFactor_Cal3Bundler
+Command: "/home/jkang/gtsam/build/gtsam/slam/tests/testGeneralSFMFactor_Cal3Bundler"
+Directory: /home/jkang/gtsam/build/gtsam/slam/tests
+"testGeneralSFMFactor_Cal3Bundler" start time: Feb 02 14:28 EST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.03 sec
+----------------------------------------------------------
+Test Passed.
+"testGeneralSFMFactor_Cal3Bundler" end time: Feb 02 14:28 EST
+"testGeneralSFMFactor_Cal3Bundler" time elapsed: 00:00:00
+----------------------------------------------------------
+
+121/230 Testing: testSmartProjectionPoseFactor
+121/230 Test: testSmartProjectionPoseFactor
+Command: "/home/jkang/gtsam/build/gtsam/slam/tests/testSmartProjectionPoseFactor"
+Directory: /home/jkang/gtsam/build/gtsam/slam/tests
+"testSmartProjectionPoseFactor" start time: Feb 02 14:28 EST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.04 sec
+----------------------------------------------------------
+Test Passed.
+"testSmartProjectionPoseFactor" end time: Feb 02 14:28 EST
+"testSmartProjectionPoseFactor" time elapsed: 00:00:00
+----------------------------------------------------------
+
+122/230 Testing: testLago
+122/230 Test: testLago
+Command: "/home/jkang/gtsam/build/gtsam/slam/tests/testLago"
+Directory: /home/jkang/gtsam/build/gtsam/slam/tests
+"testLago" start time: Feb 02 14:28 EST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.03 sec
+----------------------------------------------------------
+Test Passed.
+"testLago" end time: Feb 02 14:28 EST
+"testLago" time elapsed: 00:00:00
+----------------------------------------------------------
+
+123/230 Testing: testProjectionFactor
+123/230 Test: testProjectionFactor
+Command: "/home/jkang/gtsam/build/gtsam/slam/tests/testProjectionFactor"
+Directory: /home/jkang/gtsam/build/gtsam/slam/tests
+"testProjectionFactor" start time: Feb 02 14:28 EST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"testProjectionFactor" end time: Feb 02 14:28 EST
+"testProjectionFactor" time elapsed: 00:00:00
+----------------------------------------------------------
+
+124/230 Testing: testInitializePose3
+124/230 Test: testInitializePose3
+Command: "/home/jkang/gtsam/build/gtsam/slam/tests/testInitializePose3"
+Directory: /home/jkang/gtsam/build/gtsam/slam/tests
+"testInitializePose3" start time: Feb 02 14:28 EST
+Output:
+----------------------------------------------------------
+ b 1 f0 0.821026 a 6.01053 rho 12.0211 stepsize 0.0415936 maxNodeDeg 4
+nr of gradient iterations 1maxGrad 0.85189
+ b 1 f0 0.821026 a 6.01053 rho 12.0211 stepsize 0.0415936 maxNodeDeg 4
+nr of gradient iterations 10maxGrad 2.00427
+There were no test failures
+<end of output>
+Test time =   0.04 sec
+----------------------------------------------------------
+Test Passed.
+"testInitializePose3" end time: Feb 02 14:28 EST
+"testInitializePose3" time elapsed: 00:00:00
+----------------------------------------------------------
+
+125/230 Testing: testPoseRotationPrior
+125/230 Test: testPoseRotationPrior
+Command: "/home/jkang/gtsam/build/gtsam/slam/tests/testPoseRotationPrior"
+Directory: /home/jkang/gtsam/build/gtsam/slam/tests
+"testPoseRotationPrior" start time: Feb 02 14:28 EST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"testPoseRotationPrior" end time: Feb 02 14:28 EST
+"testPoseRotationPrior" time elapsed: 00:00:00
+----------------------------------------------------------
+
+126/230 Testing: testAntiFactor
+126/230 Test: testAntiFactor
+Command: "/home/jkang/gtsam/build/gtsam/slam/tests/testAntiFactor"
+Directory: /home/jkang/gtsam/build/gtsam/slam/tests
+"testAntiFactor" start time: Feb 02 14:28 EST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"testAntiFactor" end time: Feb 02 14:28 EST
+"testAntiFactor" time elapsed: 00:00:00
+----------------------------------------------------------
+
+127/230 Testing: testDataset
+127/230 Test: testDataset
+Command: "/home/jkang/gtsam/build/gtsam/slam/tests/testDataset"
+Directory: /home/jkang/gtsam/build/gtsam/slam/tests
+"testDataset" start time: Feb 02 14:28 EST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.18 sec
+----------------------------------------------------------
+Test Passed.
+"testDataset" end time: Feb 02 14:28 EST
+"testDataset" time elapsed: 00:00:00
+----------------------------------------------------------
+
+128/230 Testing: testRotateFactor
+128/230 Test: testRotateFactor
+Command: "/home/jkang/gtsam/build/gtsam/slam/tests/testRotateFactor"
+Directory: /home/jkang/gtsam/build/gtsam/slam/tests
+"testRotateFactor" start time: Feb 02 14:28 EST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"testRotateFactor" end time: Feb 02 14:28 EST
+"testRotateFactor" time elapsed: 00:00:00
+----------------------------------------------------------
+
+129/230 Testing: testOrientedPlane3Factor
+129/230 Test: testOrientedPlane3Factor
+Command: "/home/jkang/gtsam/build/gtsam/slam/tests/testOrientedPlane3Factor"
+Directory: /home/jkang/gtsam/build/gtsam/slam/tests
+"testOrientedPlane3Factor" start time: Feb 02 14:28 EST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.03 sec
+----------------------------------------------------------
+Test Passed.
+"testOrientedPlane3Factor" end time: Feb 02 14:28 EST
+"testOrientedPlane3Factor" time elapsed: 00:00:00
+----------------------------------------------------------
+
+130/230 Testing: testManifoldPreintegration
+130/230 Test: testManifoldPreintegration
+Command: "/home/jkang/gtsam/build/gtsam/navigation/tests/testManifoldPreintegration"
+Directory: /home/jkang/gtsam/build/gtsam/navigation/tests
+"testManifoldPreintegration" start time: Feb 02 14:28 EST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.04 sec
+----------------------------------------------------------
+Test Passed.
+"testManifoldPreintegration" end time: Feb 02 14:28 EST
+"testManifoldPreintegration" time elapsed: 00:00:00
+----------------------------------------------------------
+
+131/230 Testing: testCombinedImuFactor
+131/230 Test: testCombinedImuFactor
+Command: "/home/jkang/gtsam/build/gtsam/navigation/tests/testCombinedImuFactor"
+Directory: /home/jkang/gtsam/build/gtsam/navigation/tests
+"testCombinedImuFactor" start time: Feb 02 14:28 EST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.06 sec
+----------------------------------------------------------
+Test Passed.
+"testCombinedImuFactor" end time: Feb 02 14:28 EST
+"testCombinedImuFactor" time elapsed: 00:00:00
+----------------------------------------------------------
+
+132/230 Testing: testScenarios
+132/230 Test: testScenarios
+Command: "/home/jkang/gtsam/build/gtsam/navigation/tests/testScenarios"
+Directory: /home/jkang/gtsam/build/gtsam/navigation/tests
+"testScenarios" start time: Feb 02 14:28 EST
+Output:
+----------------------------------------------------------
+There were no test failures
+-Total: 0 CPU (0 times, 0 wall, 1.87 children, min: 0 max: 0)
+|   -estimateCovariance: 1.87 CPU (17 times, 2.14032 wall, 1.87 children, min: 0 max: 0)
+<end of output>
+Test time =   2.15 sec
+----------------------------------------------------------
+Test Passed.
+"testScenarios" end time: Feb 02 14:28 EST
+"testScenarios" time elapsed: 00:00:02
+----------------------------------------------------------
+
+133/230 Testing: testTangentPreintegration
+133/230 Test: testTangentPreintegration
+Command: "/home/jkang/gtsam/build/gtsam/navigation/tests/testTangentPreintegration"
+Directory: /home/jkang/gtsam/build/gtsam/navigation/tests
+"testTangentPreintegration" start time: Feb 02 14:28 EST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"testTangentPreintegration" end time: Feb 02 14:28 EST
+"testTangentPreintegration" time elapsed: 00:00:00
+----------------------------------------------------------
+
+134/230 Testing: testImuBias
+134/230 Test: testImuBias
+Command: "/home/jkang/gtsam/build/gtsam/navigation/tests/testImuBias"
+Directory: /home/jkang/gtsam/build/gtsam/navigation/tests
+"testImuBias" start time: Feb 02 14:28 EST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"testImuBias" end time: Feb 02 14:28 EST
+"testImuBias" time elapsed: 00:00:00
+----------------------------------------------------------
+
+135/230 Testing: testImuFactorSerialization
+135/230 Test: testImuFactorSerialization
+Command: "/home/jkang/gtsam/build/gtsam/navigation/tests/testImuFactorSerialization"
+Directory: /home/jkang/gtsam/build/gtsam/navigation/tests
+"testImuFactorSerialization" start time: Feb 02 14:28 EST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"testImuFactorSerialization" end time: Feb 02 14:28 EST
+"testImuFactorSerialization" time elapsed: 00:00:00
+----------------------------------------------------------
+
+136/230 Testing: testPoseVelocityBias
+136/230 Test: testPoseVelocityBias
+Command: "/home/jkang/gtsam/build/gtsam/navigation/tests/testPoseVelocityBias"
+Directory: /home/jkang/gtsam/build/gtsam/navigation/tests
+"testPoseVelocityBias" start time: Feb 02 14:28 EST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"testPoseVelocityBias" end time: Feb 02 14:28 EST
+"testPoseVelocityBias" time elapsed: 00:00:00
+----------------------------------------------------------
+
+137/230 Testing: testScenario
+137/230 Test: testScenario
+Command: "/home/jkang/gtsam/build/gtsam/navigation/tests/testScenario"
+Directory: /home/jkang/gtsam/build/gtsam/navigation/tests
+"testScenario" start time: Feb 02 14:28 EST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"testScenario" end time: Feb 02 14:28 EST
+"testScenario" time elapsed: 00:00:00
+----------------------------------------------------------
+
+138/230 Testing: testNavState
+138/230 Test: testNavState
+Command: "/home/jkang/gtsam/build/gtsam/navigation/tests/testNavState"
+Directory: /home/jkang/gtsam/build/gtsam/navigation/tests
+"testNavState" start time: Feb 02 14:28 EST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.03 sec
+----------------------------------------------------------
+Test Passed.
+"testNavState" end time: Feb 02 14:28 EST
+"testNavState" time elapsed: 00:00:00
+----------------------------------------------------------
+
+139/230 Testing: testImuFactor
+139/230 Test: testImuFactor
+Command: "/home/jkang/gtsam/build/gtsam/navigation/tests/testImuFactor"
+Directory: /home/jkang/gtsam/build/gtsam/navigation/tests
+"testImuFactor" start time: Feb 02 14:28 EST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.24 sec
+----------------------------------------------------------
+Test Passed.
+"testImuFactor" end time: Feb 02 14:28 EST
+"testImuFactor" time elapsed: 00:00:00
+----------------------------------------------------------
+
+140/230 Testing: testAttitudeFactor
+140/230 Test: testAttitudeFactor
+Command: "/home/jkang/gtsam/build/gtsam/navigation/tests/testAttitudeFactor"
+Directory: /home/jkang/gtsam/build/gtsam/navigation/tests
+"testAttitudeFactor" start time: Feb 02 14:28 EST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"testAttitudeFactor" end time: Feb 02 14:28 EST
+"testAttitudeFactor" time elapsed: 00:00:00
+----------------------------------------------------------
+
+141/230 Testing: testAHRSFactor
+141/230 Test: testAHRSFactor
+Command: "/home/jkang/gtsam/build/gtsam/navigation/tests/testAHRSFactor"
+Directory: /home/jkang/gtsam/build/gtsam/navigation/tests
+"testAHRSFactor" start time: Feb 02 14:28 EST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.04 sec
+----------------------------------------------------------
+Test Passed.
+"testAHRSFactor" end time: Feb 02 14:28 EST
+"testAHRSFactor" time elapsed: 00:00:00
+----------------------------------------------------------
+
+142/230 Testing: testNonlinearISAM
+142/230 Test: testNonlinearISAM
+Command: "/home/jkang/gtsam/build/tests/testNonlinearISAM"
+Directory: /home/jkang/gtsam/build/tests
+"testNonlinearISAM" start time: Feb 02 14:28 EST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.07 sec
+----------------------------------------------------------
+Test Passed.
+"testNonlinearISAM" end time: Feb 02 14:28 EST
+"testNonlinearISAM" time elapsed: 00:00:00
+----------------------------------------------------------
+
+143/230 Testing: testGaussianISAM2
+143/230 Test: testGaussianISAM2
+Command: "/home/jkang/gtsam/build/tests/testGaussianISAM2"
+Directory: /home/jkang/gtsam/build/tests
+"testGaussianISAM2" start time: Feb 02 14:28 EST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.08 sec
+----------------------------------------------------------
+Test Passed.
+"testGaussianISAM2" end time: Feb 02 14:28 EST
+"testGaussianISAM2" time elapsed: 00:00:00
+----------------------------------------------------------
+
+144/230 Testing: testNonlinearEquality
+144/230 Test: testNonlinearEquality
+Command: "/home/jkang/gtsam/build/tests/testNonlinearEquality"
+Directory: /home/jkang/gtsam/build/tests
+"testNonlinearEquality" start time: Feb 02 14:28 EST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"testNonlinearEquality" end time: Feb 02 14:28 EST
+"testNonlinearEquality" time elapsed: 00:00:00
+----------------------------------------------------------
+
+145/230 Testing: testManifold
+145/230 Test: testManifold
+Command: "/home/jkang/gtsam/build/tests/testManifold"
+Directory: /home/jkang/gtsam/build/tests
+"testManifold" start time: Feb 02 14:28 EST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"testManifold" end time: Feb 02 14:28 EST
+"testManifold" time elapsed: 00:00:00
+----------------------------------------------------------
+
+146/230 Testing: testGeneralSFMFactorB
+146/230 Test: testGeneralSFMFactorB
+Command: "/home/jkang/gtsam/build/tests/testGeneralSFMFactorB"
+Directory: /home/jkang/gtsam/build/tests
+"testGeneralSFMFactorB" start time: Feb 02 14:28 EST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.03 sec
+----------------------------------------------------------
+Test Passed.
+"testGeneralSFMFactorB" end time: Feb 02 14:28 EST
+"testGeneralSFMFactorB" time elapsed: 00:00:00
+----------------------------------------------------------
+
+147/230 Testing: testSimulated2D
+147/230 Test: testSimulated2D
+Command: "/home/jkang/gtsam/build/tests/testSimulated2D"
+Directory: /home/jkang/gtsam/build/tests
+"testSimulated2D" start time: Feb 02 14:28 EST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"testSimulated2D" end time: Feb 02 14:28 EST
+"testSimulated2D" time elapsed: 00:00:00
+----------------------------------------------------------
+
+148/230 Testing: testGradientDescentOptimizer
+148/230 Test: testGradientDescentOptimizer
+Command: "/home/jkang/gtsam/build/tests/testGradientDescentOptimizer"
+Directory: /home/jkang/gtsam/build/tests
+"testGradientDescentOptimizer" start time: Feb 02 14:28 EST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.03 sec
+----------------------------------------------------------
+Test Passed.
+"testGradientDescentOptimizer" end time: Feb 02 14:28 EST
+"testGradientDescentOptimizer" time elapsed: 00:00:00
+----------------------------------------------------------
+
+149/230 Testing: testGraph
+149/230 Test: testGraph
+Command: "/home/jkang/gtsam/build/tests/testGraph"
+Directory: /home/jkang/gtsam/build/tests
+"testGraph" start time: Feb 02 14:28 EST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"testGraph" end time: Feb 02 14:28 EST
+"testGraph" time elapsed: 00:00:00
+----------------------------------------------------------
+
+150/230 Testing: testGaussianBayesTreeB
+150/230 Test: testGaussianBayesTreeB
+Command: "/home/jkang/gtsam/build/tests/testGaussianBayesTreeB"
+Directory: /home/jkang/gtsam/build/tests
+"testGaussianBayesTreeB" start time: Feb 02 14:28 EST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"testGaussianBayesTreeB" end time: Feb 02 14:28 EST
+"testGaussianBayesTreeB" time elapsed: 00:00:00
+----------------------------------------------------------
+
+151/230 Testing: testSubgraphSolver
+151/230 Test: testSubgraphSolver
+Command: "/home/jkang/gtsam/build/tests/testSubgraphSolver"
+Directory: /home/jkang/gtsam/build/tests
+"testSubgraphSolver" start time: Feb 02 14:28 EST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"testSubgraphSolver" end time: Feb 02 14:28 EST
+"testSubgraphSolver" time elapsed: 00:00:00
+----------------------------------------------------------
+
+152/230 Testing: testMarginals
+152/230 Test: testMarginals
+Command: "/home/jkang/gtsam/build/tests/testMarginals"
+Directory: /home/jkang/gtsam/build/tests
+"testMarginals" start time: Feb 02 14:28 EST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"testMarginals" end time: Feb 02 14:28 EST
+"testMarginals" time elapsed: 00:00:00
+----------------------------------------------------------
+
+153/230 Testing: testSimulated2DOriented
+153/230 Test: testSimulated2DOriented
+Command: "/home/jkang/gtsam/build/tests/testSimulated2DOriented"
+Directory: /home/jkang/gtsam/build/tests
+"testSimulated2DOriented" start time: Feb 02 14:28 EST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"testSimulated2DOriented" end time: Feb 02 14:28 EST
+"testSimulated2DOriented" time elapsed: 00:00:00
+----------------------------------------------------------
+
+154/230 Testing: testNonlinearFactorGraph
+154/230 Test: testNonlinearFactorGraph
+Command: "/home/jkang/gtsam/build/tests/testNonlinearFactorGraph"
+Directory: /home/jkang/gtsam/build/tests
+"testNonlinearFactorGraph" start time: Feb 02 14:28 EST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"testNonlinearFactorGraph" end time: Feb 02 14:28 EST
+"testNonlinearFactorGraph" time elapsed: 00:00:00
+----------------------------------------------------------
+
+155/230 Testing: testNonlinearOptimizer
+155/230 Test: testNonlinearOptimizer
+Command: "/home/jkang/gtsam/build/tests/testNonlinearOptimizer"
+Directory: /home/jkang/gtsam/build/tests
+"testNonlinearOptimizer" start time: Feb 02 14:28 EST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.03 sec
+----------------------------------------------------------
+Test Passed.
+"testNonlinearOptimizer" end time: Feb 02 14:28 EST
+"testNonlinearOptimizer" time elapsed: 00:00:00
+----------------------------------------------------------
+
+156/230 Testing: testIterative
+156/230 Test: testIterative
+Command: "/home/jkang/gtsam/build/tests/testIterative"
+Directory: /home/jkang/gtsam/build/tests
+"testIterative" start time: Feb 02 14:28 EST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"testIterative" end time: Feb 02 14:28 EST
+"testIterative" time elapsed: 00:00:00
+----------------------------------------------------------
+
+157/230 Testing: testGaussianISAM
+157/230 Test: testGaussianISAM
+Command: "/home/jkang/gtsam/build/tests/testGaussianISAM"
+Directory: /home/jkang/gtsam/build/tests
+"testGaussianISAM" start time: Feb 02 14:28 EST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"testGaussianISAM" end time: Feb 02 14:28 EST
+"testGaussianISAM" time elapsed: 00:00:00
+----------------------------------------------------------
+
+158/230 Testing: testGaussianFactorGraphB
+158/230 Test: testGaussianFactorGraphB
+Command: "/home/jkang/gtsam/build/tests/testGaussianFactorGraphB"
+Directory: /home/jkang/gtsam/build/tests
+"testGaussianFactorGraphB" start time: Feb 02 14:28 EST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"testGaussianFactorGraphB" end time: Feb 02 14:28 EST
+"testGaussianFactorGraphB" time elapsed: 00:00:00
+----------------------------------------------------------
+
+159/230 Testing: testSimulated3D
+159/230 Test: testSimulated3D
+Command: "/home/jkang/gtsam/build/tests/testSimulated3D"
+Directory: /home/jkang/gtsam/build/tests
+"testSimulated3D" start time: Feb 02 14:28 EST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"testSimulated3D" end time: Feb 02 14:28 EST
+"testSimulated3D" time elapsed: 00:00:00
+----------------------------------------------------------
+
+160/230 Testing: testNonlinearFactor
+160/230 Test: testNonlinearFactor
+Command: "/home/jkang/gtsam/build/tests/testNonlinearFactor"
+Directory: /home/jkang/gtsam/build/tests
+"testNonlinearFactor" start time: Feb 02 14:28 EST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.03 sec
+----------------------------------------------------------
+Test Passed.
+"testNonlinearFactor" end time: Feb 02 14:28 EST
+"testNonlinearFactor" time elapsed: 00:00:00
+----------------------------------------------------------
+
+161/230 Testing: testBoundingConstraint
+161/230 Test: testBoundingConstraint
+Command: "/home/jkang/gtsam/build/tests/testBoundingConstraint"
+Directory: /home/jkang/gtsam/build/tests
+"testBoundingConstraint" start time: Feb 02 14:28 EST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"testBoundingConstraint" end time: Feb 02 14:28 EST
+"testBoundingConstraint" time elapsed: 00:00:00
+----------------------------------------------------------
+
+162/230 Testing: testSubgraphPreconditioner
+162/230 Test: testSubgraphPreconditioner
+Command: "/home/jkang/gtsam/build/tests/testSubgraphPreconditioner"
+Directory: /home/jkang/gtsam/build/tests
+"testSubgraphPreconditioner" start time: Feb 02 14:28 EST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"testSubgraphPreconditioner" end time: Feb 02 14:28 EST
+"testSubgraphPreconditioner" time elapsed: 00:00:00
+----------------------------------------------------------
+
+163/230 Testing: testLie
+163/230 Test: testLie
+Command: "/home/jkang/gtsam/build/tests/testLie"
+Directory: /home/jkang/gtsam/build/tests
+"testLie" start time: Feb 02 14:28 EST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"testLie" end time: Feb 02 14:28 EST
+"testLie" time elapsed: 00:00:00
+----------------------------------------------------------
+
+164/230 Testing: testDoglegOptimizer
+164/230 Test: testDoglegOptimizer
+Command: "/home/jkang/gtsam/build/tests/testDoglegOptimizer"
+Directory: /home/jkang/gtsam/build/tests
+"testDoglegOptimizer" start time: Feb 02 14:28 EST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"testDoglegOptimizer" end time: Feb 02 14:28 EST
+"testDoglegOptimizer" time elapsed: 00:00:00
+----------------------------------------------------------
+
+165/230 Testing: testPCGSolver
+165/230 Test: testPCGSolver
+Command: "/home/jkang/gtsam/build/tests/testPCGSolver"
+Directory: /home/jkang/gtsam/build/tests
+"testPCGSolver" start time: Feb 02 14:28 EST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"testPCGSolver" end time: Feb 02 14:28 EST
+"testPCGSolver" time elapsed: 00:00:00
+----------------------------------------------------------
+
+166/230 Testing: testExtendedKalmanFilter
+166/230 Test: testExtendedKalmanFilter
+Command: "/home/jkang/gtsam/build/tests/testExtendedKalmanFilter"
+Directory: /home/jkang/gtsam/build/tests
+"testExtendedKalmanFilter" start time: Feb 02 14:28 EST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"testExtendedKalmanFilter" end time: Feb 02 14:28 EST
+"testExtendedKalmanFilter" time elapsed: 00:00:00
+----------------------------------------------------------
+
+167/230 Testing: testSerializationSLAM
+167/230 Test: testSerializationSLAM
+Command: "/home/jkang/gtsam/build/tests/testSerializationSLAM"
+Directory: /home/jkang/gtsam/build/tests
+"testSerializationSLAM" start time: Feb 02 14:28 EST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"testSerializationSLAM" end time: Feb 02 14:28 EST
+"testSerializationSLAM" time elapsed: 00:00:00
+----------------------------------------------------------
+
+168/230 Testing: testRot3Optimization
+168/230 Test: testRot3Optimization
+Command: "/home/jkang/gtsam/build/tests/testRot3Optimization"
+Directory: /home/jkang/gtsam/build/tests
+"testRot3Optimization" start time: Feb 02 14:28 EST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"testRot3Optimization" end time: Feb 02 14:28 EST
+"testRot3Optimization" time elapsed: 00:00:00
+----------------------------------------------------------
+
+169/230 Testing: testGaussianJunctionTreeB
+169/230 Test: testGaussianJunctionTreeB
+Command: "/home/jkang/gtsam/build/tests/testGaussianJunctionTreeB"
+Directory: /home/jkang/gtsam/build/tests
+"testGaussianJunctionTreeB" start time: Feb 02 14:28 EST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.03 sec
+----------------------------------------------------------
+Test Passed.
+"testGaussianJunctionTreeB" end time: Feb 02 14:28 EST
+"testGaussianJunctionTreeB" time elapsed: 00:00:00
+----------------------------------------------------------
+
+170/230 Testing: testExpressionFactor
+170/230 Test: testExpressionFactor
+Command: "/home/jkang/gtsam/build/tests/testExpressionFactor"
+Directory: /home/jkang/gtsam/build/tests
+"testExpressionFactor" start time: Feb 02 14:28 EST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"testExpressionFactor" end time: Feb 02 14:28 EST
+"testExpressionFactor" time elapsed: 00:00:00
+----------------------------------------------------------
+
+171/230 Testing: testPreconditioner
+171/230 Test: testPreconditioner
+Command: "/home/jkang/gtsam/build/tests/testPreconditioner"
+Directory: /home/jkang/gtsam/build/tests
+"testPreconditioner" start time: Feb 02 14:28 EST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"testPreconditioner" end time: Feb 02 14:28 EST
+"testPreconditioner" time elapsed: 00:00:00
+----------------------------------------------------------
+
+172/230 Testing: testFixedVector
+172/230 Test: testFixedVector
+Command: "/home/jkang/gtsam/build/gtsam_unstable/base/tests/testFixedVector"
+Directory: /home/jkang/gtsam/build/gtsam_unstable/base/tests
+"testFixedVector" start time: Feb 02 14:28 EST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"testFixedVector" end time: Feb 02 14:28 EST
+"testFixedVector" time elapsed: 00:00:00
+----------------------------------------------------------
+
+173/230 Testing: testDSF
+173/230 Test: testDSF
+Command: "/home/jkang/gtsam/build/gtsam_unstable/base/tests/testDSF"
+Directory: /home/jkang/gtsam/build/gtsam_unstable/base/tests
+"testDSF" start time: Feb 02 14:28 EST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"testDSF" end time: Feb 02 14:28 EST
+"testDSF" time elapsed: 00:00:00
+----------------------------------------------------------
+
+174/230 Testing: testDSFMap
+174/230 Test: testDSFMap
+Command: "/home/jkang/gtsam/build/gtsam_unstable/base/tests/testDSFMap"
+Directory: /home/jkang/gtsam/build/gtsam_unstable/base/tests
+"testDSFMap" start time: Feb 02 14:28 EST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"testDSFMap" end time: Feb 02 14:28 EST
+"testDSFMap" time elapsed: 00:00:00
+----------------------------------------------------------
+
+175/230 Testing: testBTree
+175/230 Test: testBTree
+Command: "/home/jkang/gtsam/build/gtsam_unstable/base/tests/testBTree"
+Directory: /home/jkang/gtsam/build/gtsam_unstable/base/tests
+"testBTree" start time: Feb 02 14:28 EST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"testBTree" end time: Feb 02 14:28 EST
+"testBTree" time elapsed: 00:00:00
+----------------------------------------------------------
+
+176/230 Testing: testSimilarity3
+176/230 Test: testSimilarity3
+Command: "/home/jkang/gtsam/build/gtsam_unstable/geometry/tests/testSimilarity3"
+Directory: /home/jkang/gtsam/build/gtsam_unstable/geometry/tests
+"testSimilarity3" start time: Feb 02 14:28 EST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.04 sec
+----------------------------------------------------------
+Test Passed.
+"testSimilarity3" end time: Feb 02 14:28 EST
+"testSimilarity3" time elapsed: 00:00:00
+----------------------------------------------------------
+
+177/230 Testing: testBearingS2
+177/230 Test: testBearingS2
+Command: "/home/jkang/gtsam/build/gtsam_unstable/geometry/tests/testBearingS2"
+Directory: /home/jkang/gtsam/build/gtsam_unstable/geometry/tests
+"testBearingS2" start time: Feb 02 14:28 EST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"testBearingS2" end time: Feb 02 14:28 EST
+"testBearingS2" time elapsed: 00:00:00
+----------------------------------------------------------
+
+178/230 Testing: testInvDepthCamera3
+178/230 Test: testInvDepthCamera3
+Command: "/home/jkang/gtsam/build/gtsam_unstable/geometry/tests/testInvDepthCamera3"
+Directory: /home/jkang/gtsam/build/gtsam_unstable/geometry/tests
+"testInvDepthCamera3" start time: Feb 02 14:28 EST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.03 sec
+----------------------------------------------------------
+Test Passed.
+"testInvDepthCamera3" end time: Feb 02 14:28 EST
+"testInvDepthCamera3" time elapsed: 00:00:00
+----------------------------------------------------------
+
+179/230 Testing: testEvent
+179/230 Test: testEvent
+Command: "/home/jkang/gtsam/build/gtsam_unstable/geometry/tests/testEvent"
+Directory: /home/jkang/gtsam/build/gtsam_unstable/geometry/tests
+"testEvent" start time: Feb 02 14:28 EST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"testEvent" end time: Feb 02 14:28 EST
+"testEvent" time elapsed: 00:00:00
+----------------------------------------------------------
+
+180/230 Testing: testSimPolygon2D
+180/230 Test: testSimPolygon2D
+Command: "/home/jkang/gtsam/build/gtsam_unstable/geometry/tests/testSimPolygon2D"
+Directory: /home/jkang/gtsam/build/gtsam_unstable/geometry/tests
+"testSimPolygon2D" start time: Feb 02 14:28 EST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"testSimPolygon2D" end time: Feb 02 14:28 EST
+"testSimPolygon2D" time elapsed: 00:00:00
+----------------------------------------------------------
+
+181/230 Testing: testPose3Upright
+181/230 Test: testPose3Upright
+Command: "/home/jkang/gtsam/build/gtsam_unstable/geometry/tests/testPose3Upright"
+Directory: /home/jkang/gtsam/build/gtsam_unstable/geometry/tests
+"testPose3Upright" start time: Feb 02 14:28 EST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"testPose3Upright" end time: Feb 02 14:28 EST
+"testPose3Upright" time elapsed: 00:00:00
+----------------------------------------------------------
+
+182/230 Testing: testSimWall2D
+182/230 Test: testSimWall2D
+Command: "/home/jkang/gtsam/build/gtsam_unstable/geometry/tests/testSimWall2D"
+Directory: /home/jkang/gtsam/build/gtsam_unstable/geometry/tests
+"testSimWall2D" start time: Feb 02 14:28 EST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"testSimWall2D" end time: Feb 02 14:28 EST
+"testSimWall2D" time elapsed: 00:00:00
+----------------------------------------------------------
+
+183/230 Testing: testQPSolver
+183/230 Test: testQPSolver
+Command: "/home/jkang/gtsam/build/gtsam_unstable/linear/tests/testQPSolver"
+Directory: /home/jkang/gtsam/build/gtsam_unstable/linear/tests
+"testQPSolver" start time: Feb 02 14:28 EST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.04 sec
+----------------------------------------------------------
+Test Passed.
+"testQPSolver" end time: Feb 02 14:28 EST
+"testQPSolver" time elapsed: 00:00:00
+----------------------------------------------------------
+
+184/230 Testing: testLinearEquality
+184/230 Test: testLinearEquality
+Command: "/home/jkang/gtsam/build/gtsam_unstable/linear/tests/testLinearEquality"
+Directory: /home/jkang/gtsam/build/gtsam_unstable/linear/tests
+"testLinearEquality" start time: Feb 02 14:28 EST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"testLinearEquality" end time: Feb 02 14:28 EST
+"testLinearEquality" time elapsed: 00:00:00
+----------------------------------------------------------
+
+185/230 Testing: testLPSolver
+185/230 Test: testLPSolver
+Command: "/home/jkang/gtsam/build/gtsam_unstable/linear/tests/testLPSolver"
+Directory: /home/jkang/gtsam/build/gtsam_unstable/linear/tests
+"testLPSolver" start time: Feb 02 14:28 EST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.03 sec
+----------------------------------------------------------
+Test Passed.
+"testLPSolver" end time: Feb 02 14:28 EST
+"testLPSolver" time elapsed: 00:00:00
+----------------------------------------------------------
+
+186/230 Testing: testLoopyBelief
+186/230 Test: testLoopyBelief
+Command: "/home/jkang/gtsam/build/gtsam_unstable/discrete/tests/testLoopyBelief"
+Directory: /home/jkang/gtsam/build/gtsam_unstable/discrete/tests
+"testLoopyBelief" start time: Feb 02 14:28 EST
+Output:
+----------------------------------------------------------
+graph: 
+size: 4
+factor 0: Potentials:
+  Cardinalities: 0=2 
+  Leaf 0.5
+factor 1: 
+factor 1: 
+  Cardinalities: 0=2 1=2 
+  Choice(1) 
+  0 Choice(0) 
+  0 0 Leaf 0.5
+  0 1 Leaf 0.9
+  1 Choice(0) 
+  1 0 Leaf 0.5
+  1 1 Leaf 0.1
+factor 2: 
+factor 2: 
+  Cardinalities: 0=2 2=2 
+  Choice(2) 
+  0 Choice(0) 
+  0 0 Leaf 0.8
+  0 1 Leaf 0.2
+  1 Choice(0) 
+  1 0 Leaf 0.2
+  1 1 Leaf 0.8
+factor 3: Potentials:
+  Cardinalities: 1=2 2=2 
+  Choice(2) 
+  0 Choice(1) 
+  0 0 Leaf 0
+  0 1 Leaf 0.9
+  1 Choice(1) 
+  1 0 Leaf 0.9
+  1 1 Leaf 0.99
+Loopy belief: :
+Node 0::
+Star graph: 
+size: 5
+factor 0: Potentials:
+  Cardinalities: 0=2 
+  Leaf 0.5
+factor 1: 
+factor 1: 
+  Cardinalities: 0=2 1=2 
+  Choice(1) 
+  0 Choice(0) 
+  0 0 Leaf 0.5
+  0 1 Leaf 0.9
+  1 Choice(0) 
+  1 0 Leaf 0.5
+  1 1 Leaf 0.1
+factor 2: 
+factor 2: 
+  Cardinalities: 0=2 2=2 
+  Choice(2) 
+  0 Choice(0) 
+  0 0 Leaf 0.8
+  0 1 Leaf 0.2
+  1 Choice(0) 
+  1 0 Leaf 0.2
+  1 1 Leaf 0.8
+factor 3: Potentials:
+  Cardinalities: 1=2 
+  Choice(1) 
+  0 Leaf 0
+  1 Leaf 1
+factor 4: Potentials:
+  Cardinalities: 2=2 
+  Choice(2) 
+  0 Leaf 0
+  1 Leaf 1
+Belief factor index for 1: 3
+Belief factor index for 2: 4
+Unary: Potentials:
+  Cardinalities: 0=2 
+  Leaf 0.5
+Node 1::
+Star graph: 
+size: 4
+factor 0: 
+factor 0: 
+  Cardinalities: 0=2 1=2 
+  Choice(1) 
+  0 Choice(0) 
+  0 0 Leaf 0.5
+  0 1 Leaf 0.9
+  1 Choice(0) 
+  1 0 Leaf 0.5
+  1 1 Leaf 0.1
+factor 1: Potentials:
+  Cardinalities: 1=2 2=2 
+  Choice(2) 
+  0 Choice(1) 
+  0 0 Leaf 0
+  0 1 Leaf 0.9
+  1 Choice(1) 
+  1 0 Leaf 0.9
+  1 1 Leaf 0.99
+factor 2: Potentials:
+  Cardinalities: 0=2 
+  Choice(0) 
+  0 Leaf 0
+  1 Leaf 1
+factor 3: Potentials:
+  Cardinalities: 2=2 
+  Choice(2) 
+  0 Leaf 0
+  1 Leaf 1
+Belief factor index for 0: 2
+Belief factor index for 2: 3
+Node 2::
+Star graph: 
+size: 4
+factor 0: 
+factor 0: 
+  Cardinalities: 0=2 2=2 
+  Choice(2) 
+  0 Choice(0) 
+  0 0 Leaf 0.8
+  0 1 Leaf 0.2
+  1 Choice(0) 
+  1 0 Leaf 0.2
+  1 1 Leaf 0.8
+factor 1: Potentials:
+  Cardinalities: 1=2 2=2 
+  Choice(2) 
+  0 Choice(1) 
+  0 0 Leaf 0
+  0 1 Leaf 0.9
+  1 Choice(1) 
+  1 0 Leaf 0.9
+  1 1 Leaf 0.99
+factor 2: Potentials:
+  Cardinalities: 0=2 
+  Choice(0) 
+  0 Leaf 0
+  1 Leaf 1
+factor 3: Potentials:
+  Cardinalities: 1=2 
+  Choice(1) 
+  0 Leaf 0
+  1 Leaf 1
+Belief factor index for 0: 2
+Belief factor index for 1: 3
+==================================
+iteration: 0
+DiscreteFactorGraph
+size: 3
+factor 0: Potentials:
+  Cardinalities: 0=2 
+  Choice(0) 
+  0 Leaf 0.555556
+  1 Leaf 0.444444
+factor 1: Potentials:
+  Cardinalities: 1=2 
+  Choice(1) 
+  0 Leaf 0.891089
+  1 Leaf 0.108911
+factor 2: Potentials:
+  Cardinalities: 2=2 
+  Choice(2) 
+  0 Leaf 0.185185
+  1 Leaf 0.814815
+==================================
+iteration: 1
+DiscreteFactorGraph
+size: 3
+factor 0: Potentials:
+  Cardinalities: 0=2 
+  Choice(0) 
+  0 Leaf 0.495421
+  1 Leaf 0.50458
+factor 1: Potentials:
+  Cardinalities: 1=2 
+  Choice(1) 
+  0 Leaf 0.771402
+  1 Leaf 0.228598
+factor 2: Potentials:
+  Cardinalities: 2=2 
+  Choice(2) 
+  0 Leaf 0.187668
+  1 Leaf 0.812333
+==================================
+iteration: 2
+DiscreteFactorGraph
+size: 3
+factor 0: Potentials:
+  Cardinalities: 0=2 
+  Choice(0) 
+  0 Leaf 0.278835
+  1 Leaf 0.721159
+factor 1: Potentials:
+  Cardinalities: 1=2 
+  Choice(1) 
+  0 Leaf 0.411233
+  1 Leaf 0.588767
+factor 2: Potentials:
+  Cardinalities: 2=2 
+  Choice(2) 
+  0 Leaf 0.15325
+  1 Leaf 0.84675
+==================================
+iteration: 3
+DiscreteFactorGraph
+size: 3
+factor 0: Potentials:
+  Cardinalities: 0=2 
+  Choice(0) 
+  0 Leaf 0.421542
+  1 Leaf 0.578458
+factor 1: Potentials:
+  Cardinalities: 1=2 
+  Choice(1) 
+  0 Leaf 0.650921
+  1 Leaf 0.349079
+factor 2: Potentials:
+  Cardinalities: 2=2 
+  Choice(2) 
+  0 Leaf 0.235745
+  1 Leaf 0.764255
+==================================
+iteration: 4
+DiscreteFactorGraph
+size: 3
+factor 0: Potentials:
+  Cardinalities: 0=2 
+  Choice(0) 
+  0 Leaf 0.412524
+  1 Leaf 0.587474
+factor 1: Potentials:
+  Cardinalities: 1=2 
+  Choice(1) 
+  0 Leaf 0.624783
+  1 Leaf 0.375217
+factor 2: Potentials:
+  Cardinalities: 2=2 
+  Choice(2) 
+  0 Leaf 0.217467
+  1 Leaf 0.782533
+==================================
+iteration: 5
+DiscreteFactorGraph
+size: 3
+factor 0: Potentials:
+  Cardinalities: 0=2 
+  Choice(0) 
+  0 Leaf 0.377534
+  1 Leaf 0.622466
+factor 1: Potentials:
+  Cardinalities: 1=2 
+  Choice(1) 
+  0 Leaf 0.56727
+  1 Leaf 0.43273
+factor 2: Potentials:
+  Cardinalities: 2=2 
+  Choice(2) 
+  0 Leaf 0.205673
+  1 Leaf 0.794327
+==================================
+iteration: 6
+DiscreteFactorGraph
+size: 3
+factor 0: Potentials:
+  Cardinalities: 0=2 
+  Choice(0) 
+  0 Leaf 0.400413
+  1 Leaf 0.599589
+factor 1: Potentials:
+  Cardinalities: 1=2 
+  Choice(1) 
+  0 Leaf 0.604572
+  1 Leaf 0.395428
+factor 2: Potentials:
+  Cardinalities: 2=2 
+  Choice(2) 
+  0 Leaf 0.219521
+  1 Leaf 0.780479
+==================================
+iteration: 7
+DiscreteFactorGraph
+size: 3
+factor 0: Potentials:
+  Cardinalities: 0=2 
+  Choice(0) 
+  0 Leaf 0.398968
+  1 Leaf 0.601033
+factor 1: Potentials:
+  Cardinalities: 1=2 
+  Choice(1) 
+  0 Leaf 0.600442
+  1 Leaf 0.399558
+factor 2: Potentials:
+  Cardinalities: 2=2 
+  Choice(2) 
+  0 Leaf 0.216298
+  1 Leaf 0.783703
+==================================
+iteration: 8
+DiscreteFactorGraph
+size: 3
+factor 0: Potentials:
+  Cardinalities: 0=2 
+  Choice(0) 
+  0 Leaf 0.393505
+  1 Leaf 0.606498
+factor 1: Potentials:
+  Cardinalities: 1=2 
+  Choice(1) 
+  0 Leaf 0.591536
+  1 Leaf 0.408464
+factor 2: Potentials:
+  Cardinalities: 2=2 
+  Choice(2) 
+  0 Leaf 0.214327
+  1 Leaf 0.785673
+==================================
+iteration: 9
+DiscreteFactorGraph
+size: 3
+factor 0: Potentials:
+  Cardinalities: 0=2 
+  Choice(0) 
+  0 Leaf 0.397058
+  1 Leaf 0.602942
+factor 1: Potentials:
+  Cardinalities: 1=2 
+  Choice(1) 
+  0 Leaf 0.597293
+  1 Leaf 0.402707
+factor 2: Potentials:
+  Cardinalities: 2=2 
+  Choice(2) 
+  0 Leaf 0.216495
+  1 Leaf 0.783505
+==================================
+iteration: 10
+DiscreteFactorGraph
+size: 3
+factor 0: Potentials:
+  Cardinalities: 0=2 
+  Choice(0) 
+  0 Leaf 0.396831
+  1 Leaf 0.603164
+factor 1: Potentials:
+  Cardinalities: 1=2 
+  Choice(1) 
+  0 Leaf 0.596653
+  1 Leaf 0.403347
+factor 2: Potentials:
+  Cardinalities: 2=2 
+  Choice(2) 
+  0 Leaf 0.215987
+  1 Leaf 0.784014
+==================================
+iteration: 11
+DiscreteFactorGraph
+size: 3
+factor 0: Potentials:
+  Cardinalities: 0=2 
+  Choice(0) 
+  0 Leaf 0.395986
+  1 Leaf 0.604014
+factor 1: Potentials:
+  Cardinalities: 1=2 
+  Choice(1) 
+  0 Leaf 0.595274
+  1 Leaf 0.404726
+factor 2: Potentials:
+  Cardinalities: 2=2 
+  Choice(2) 
+  0 Leaf 0.215678
+  1 Leaf 0.784322
+==================================
+iteration: 12
+DiscreteFactorGraph
+size: 3
+factor 0: Potentials:
+  Cardinalities: 0=2 
+  Choice(0) 
+  0 Leaf 0.396538
+  1 Leaf 0.603465
+factor 1: Potentials:
+  Cardinalities: 1=2 
+  Choice(1) 
+  0 Leaf 0.596165
+  1 Leaf 0.403835
+factor 2: Potentials:
+  Cardinalities: 2=2 
+  Choice(2) 
+  0 Leaf 0.216014
+  1 Leaf 0.783986
+==================================
+iteration: 13
+DiscreteFactorGraph
+size: 3
+factor 0: Potentials:
+  Cardinalities: 0=2 
+  Choice(0) 
+  0 Leaf 0.396502
+  1 Leaf 0.603498
+factor 1: Potentials:
+  Cardinalities: 1=2 
+  Choice(1) 
+  0 Leaf 0.596066
+  1 Leaf 0.403934
+factor 2: Potentials:
+  Cardinalities: 2=2 
+  Choice(2) 
+  0 Leaf 0.215935
+  1 Leaf 0.784065
+==================================
+iteration: 14
+DiscreteFactorGraph
+size: 3
+factor 0: Potentials:
+  Cardinalities: 0=2 
+  Choice(0) 
+  0 Leaf 0.396369
+  1 Leaf 0.603627
+factor 1: Potentials:
+  Cardinalities: 1=2 
+  Choice(1) 
+  0 Leaf 0.595852
+  1 Leaf 0.404148
+factor 2: Potentials:
+  Cardinalities: 2=2 
+  Choice(2) 
+  0 Leaf 0.215887
+  1 Leaf 0.784113
+==================================
+iteration: 15
+DiscreteFactorGraph
+size: 3
+factor 0: Potentials:
+  Cardinalities: 0=2 
+  Choice(0) 
+  0 Leaf 0.396456
+  1 Leaf 0.603544
+factor 1: Potentials:
+  Cardinalities: 1=2 
+  Choice(1) 
+  0 Leaf 0.59599
+  1 Leaf 0.40401
+factor 2: Potentials:
+  Cardinalities: 2=2 
+  Choice(2) 
+  0 Leaf 0.21594
+  1 Leaf 0.784061
+==================================
+iteration: 16
+DiscreteFactorGraph
+size: 3
+factor 0: Potentials:
+  Cardinalities: 0=2 
+  Choice(0) 
+  0 Leaf 0.396452
+  1 Leaf 0.603552
+factor 1: Potentials:
+  Cardinalities: 1=2 
+  Choice(1) 
+  0 Leaf 0.595975
+  1 Leaf 0.404025
+factor 2: Potentials:
+  Cardinalities: 2=2 
+  Choice(2) 
+  0 Leaf 0.215927
+  1 Leaf 0.784073
+==================================
+iteration: 17
+DiscreteFactorGraph
+size: 3
+factor 0: Potentials:
+  Cardinalities: 0=2 
+  Choice(0) 
+  0 Leaf 0.39643
+  1 Leaf 0.60357
+factor 1: Potentials:
+  Cardinalities: 1=2 
+  Choice(1) 
+  0 Leaf 0.595942
+  1 Leaf 0.404058
+factor 2: Potentials:
+  Cardinalities: 2=2 
+  Choice(2) 
+  0 Leaf 0.21592
+  1 Leaf 0.78408
+==================================
+iteration: 18
+DiscreteFactorGraph
+size: 3
+factor 0: Potentials:
+  Cardinalities: 0=2 
+  Choice(0) 
+  0 Leaf 0.396442
+  1 Leaf 0.603554
+factor 1: Potentials:
+  Cardinalities: 1=2 
+  Choice(1) 
+  0 Leaf 0.595963
+  1 Leaf 0.404037
+factor 2: Potentials:
+  Cardinalities: 2=2 
+  Choice(2) 
+  0 Leaf 0.215928
+  1 Leaf 0.784072
+==================================
+iteration: 19
+DiscreteFactorGraph
+size: 3
+factor 0: Potentials:
+  Cardinalities: 0=2 
+  Choice(0) 
+  0 Leaf 0.396443
+  1 Leaf 0.603558
+factor 1: Potentials:
+  Cardinalities: 1=2 
+  Choice(1) 
+  0 Leaf 0.595961
+  1 Leaf 0.404039
+factor 2: Potentials:
+  Cardinalities: 2=2 
+  Choice(2) 
+  0 Leaf 0.215926
+  1 Leaf 0.784074
+There were no test failures
+<end of output>
+Test time =   0.03 sec
+----------------------------------------------------------
+Test Passed.
+"testLoopyBelief" end time: Feb 02 14:28 EST
+"testLoopyBelief" time elapsed: 00:00:00
+----------------------------------------------------------
+
+187/230 Testing: testSudoku
+187/230 Test: testSudoku
+Command: "/home/jkang/gtsam/build/gtsam_unstable/discrete/tests/testSudoku"
+Directory: /home/jkang/gtsam/build/gtsam_unstable/discrete/tests
+"testSudoku" start time: Feb 02 14:28 EST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.07 sec
+----------------------------------------------------------
+Test Passed.
+"testSudoku" end time: Feb 02 14:28 EST
+"testSudoku" time elapsed: 00:00:00
+----------------------------------------------------------
+
+188/230 Testing: testCSP
+188/230 Test: testCSP
+Command: "/home/jkang/gtsam/build/gtsam_unstable/discrete/tests/testCSP"
+Directory: /home/jkang/gtsam/build/gtsam_unstable/discrete/tests
+"testCSP" start time: Feb 02 14:28 EST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.04 sec
+----------------------------------------------------------
+Test Passed.
+"testCSP" end time: Feb 02 14:28 EST
+"testCSP" time elapsed: 00:00:00
+----------------------------------------------------------
+
+189/230 Testing: testPlanning
+189/230 Test: testPlanning
+Command: "/home/jkang/gtsam/build/gtsam_unstable/discrete/tests/testPlanning"
+Directory: /home/jkang/gtsam/build/gtsam_unstable/discrete/tests
+"testPlanning" start time: Feb 02 14:28 EST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"testPlanning" end time: Feb 02 14:28 EST
+"testPlanning" time elapsed: 00:00:00
+----------------------------------------------------------
+
+190/230 Testing: testScheduler
+190/230 Test: testScheduler
+Command: "/home/jkang/gtsam/build/gtsam_unstable/discrete/tests/testScheduler"
+Directory: /home/jkang/gtsam/build/gtsam_unstable/discrete/tests
+"testScheduler" start time: Feb 02 14:28 EST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"testScheduler" end time: Feb 02 14:28 EST
+"testScheduler" time elapsed: 00:00:00
+----------------------------------------------------------
+
+191/230 Testing: testVelocityConstraint
+191/230 Test: testVelocityConstraint
+Command: "/home/jkang/gtsam/build/gtsam_unstable/dynamics/tests/testVelocityConstraint"
+Directory: /home/jkang/gtsam/build/gtsam_unstable/dynamics/tests
+"testVelocityConstraint" start time: Feb 02 14:28 EST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"testVelocityConstraint" end time: Feb 02 14:28 EST
+"testVelocityConstraint" time elapsed: 00:00:00
+----------------------------------------------------------
+
+192/230 Testing: testSimpleHelicopter
+192/230 Test: testSimpleHelicopter
+Command: "/home/jkang/gtsam/build/gtsam_unstable/dynamics/tests/testSimpleHelicopter"
+Directory: /home/jkang/gtsam/build/gtsam_unstable/dynamics/tests
+"testSimpleHelicopter" start time: Feb 02 14:28 EST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"testSimpleHelicopter" end time: Feb 02 14:28 EST
+"testSimpleHelicopter" time elapsed: 00:00:00
+----------------------------------------------------------
+
+193/230 Testing: testPoseRTV
+193/230 Test: testPoseRTV
+Command: "/home/jkang/gtsam/build/gtsam_unstable/dynamics/tests/testPoseRTV"
+Directory: /home/jkang/gtsam/build/gtsam_unstable/dynamics/tests
+"testPoseRTV" start time: Feb 02 14:28 EST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"testPoseRTV" end time: Feb 02 14:28 EST
+"testPoseRTV" time elapsed: 00:00:00
+----------------------------------------------------------
+
+194/230 Testing: testVelocityConstraint3
+194/230 Test: testVelocityConstraint3
+Command: "/home/jkang/gtsam/build/gtsam_unstable/dynamics/tests/testVelocityConstraint3"
+Directory: /home/jkang/gtsam/build/gtsam_unstable/dynamics/tests
+"testVelocityConstraint3" start time: Feb 02 14:28 EST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"testVelocityConstraint3" end time: Feb 02 14:28 EST
+"testVelocityConstraint3" time elapsed: 00:00:00
+----------------------------------------------------------
+
+195/230 Testing: testIMUSystem
+195/230 Test: testIMUSystem
+Command: "/home/jkang/gtsam/build/gtsam_unstable/dynamics/tests/testIMUSystem"
+Directory: /home/jkang/gtsam/build/gtsam_unstable/dynamics/tests
+"testIMUSystem" start time: Feb 02 14:28 EST
+Output:
+----------------------------------------------------------
+Initial Error: 0.5
+There were no test failures
+<end of output>
+Test time =   0.03 sec
+----------------------------------------------------------
+Test Passed.
+"testIMUSystem" end time: Feb 02 14:28 EST
+"testIMUSystem" time elapsed: 00:00:00
+----------------------------------------------------------
+
+196/230 Testing: testPendulumFactors
+196/230 Test: testPendulumFactors
+Command: "/home/jkang/gtsam/build/gtsam_unstable/dynamics/tests/testPendulumFactors"
+Directory: /home/jkang/gtsam/build/gtsam_unstable/dynamics/tests
+"testPendulumFactors" start time: Feb 02 14:28 EST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"testPendulumFactors" end time: Feb 02 14:28 EST
+"testPendulumFactors" time elapsed: 00:00:00
+----------------------------------------------------------
+
+197/230 Testing: testBatchFixedLagSmoother
+197/230 Test: testBatchFixedLagSmoother
+Command: "/home/jkang/gtsam/build/gtsam_unstable/nonlinear/tests/testBatchFixedLagSmoother"
+Directory: /home/jkang/gtsam/build/gtsam_unstable/nonlinear/tests
+"testBatchFixedLagSmoother" start time: Feb 02 14:28 EST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.04 sec
+----------------------------------------------------------
+Test Passed.
+"testBatchFixedLagSmoother" end time: Feb 02 14:28 EST
+"testBatchFixedLagSmoother" time elapsed: 00:00:00
+----------------------------------------------------------
+
+198/230 Testing: testConcurrentIncrementalSmootherGN
+198/230 Test: testConcurrentIncrementalSmootherGN
+Command: "/home/jkang/gtsam/build/gtsam_unstable/nonlinear/tests/testConcurrentIncrementalSmootherGN"
+Directory: /home/jkang/gtsam/build/gtsam_unstable/nonlinear/tests
+"testConcurrentIncrementalSmootherGN" start time: Feb 02 14:28 EST
+Output:
+----------------------------------------------------------
+ConcurrentIncrementalSmoother::update    removeFactorIndices - not implemented yet
+actual graph:  
+size: 5
+
+Factor 0: PriorFactor on 1
+  prior mean: R:
+[
+ 	1 0 0;
+    	0 1 0;
+    	0 0 1
+  ]
+[0, 0, 0]';isotropic dim=6 sigma=0.1
+
+Factor 1: BetweenFactor(1,2)
+  measured: R:
+[
+ 	  0.728033   0.684438   0.038888;
+    	 -0.678233   0.727373  -0.104534;
+    	-0.0998334  0.0497295   0.993761
+  ]
+[1, -0.25, 0.1]';  noise model: diagonal sigmas[0.1; 0.1; 0.1; 0.5; 0.5; 0.5];
+
+Factor 2: BetweenFactor(2,3)
+  measured: R:
+[
+ 	  0.728033472   0.684437717   0.038887971;
+    	 -0.678233405    0.72737335  -0.104534483;
+    	-0.0998334166  0.0497294816   0.993760669
+  ]
+[1, -0.25, 0.1]';  noise model: diagonal sigmas[0.1; 0.1; 0.1; 0.5; 0.5; 0.5];
+
+Factor 3: BetweenFactor(3,4)
+  measured: R:
+[
+ 	  0.728033472   0.684437717   0.038887971;
+    	 -0.678233405    0.72737335  -0.104534483;
+    	-0.0998334166  0.0497294816   0.993760669
+  ]
+[1, -0.25, 0.1]';  noise model: diagonal sigmas[0.1; 0.1; 0.1; 0.5; 0.5; 0.5];
+
+Factor 4: BetweenFactor(1,2)
+  measured: R:
+[
+ 	  0.728033472   0.684437717   0.038887971;
+    	 -0.678233405    0.72737335  -0.104534483;
+    	-0.0998334166  0.0497294816   0.993760669
+  ]
+[1, -0.25, 0.1]';  noise model: diagonal sigmas[0.1; 0.1; 0.1; 0.5; 0.5; 0.5];
+
+There were no test failures
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"testConcurrentIncrementalSmootherGN" end time: Feb 02 14:28 EST
+"testConcurrentIncrementalSmootherGN" time elapsed: 00:00:00
+----------------------------------------------------------
+
+199/230 Testing: testIncrementalFixedLagSmoother
+199/230 Test: testIncrementalFixedLagSmoother
+Command: "/home/jkang/gtsam/build/gtsam_unstable/nonlinear/tests/testIncrementalFixedLagSmoother"
+Directory: /home/jkang/gtsam/build/gtsam_unstable/nonlinear/tests
+"testIncrementalFixedLagSmoother" start time: Feb 02 14:28 EST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.03 sec
+----------------------------------------------------------
+Test Passed.
+"testIncrementalFixedLagSmoother" end time: Feb 02 14:28 EST
+"testIncrementalFixedLagSmoother" time elapsed: 00:00:00
+----------------------------------------------------------
+
+200/230 Testing: testConcurrentBatchSmoother
+200/230 Test: testConcurrentBatchSmoother
+Command: "/home/jkang/gtsam/build/gtsam_unstable/nonlinear/tests/testConcurrentBatchSmoother"
+Directory: /home/jkang/gtsam/build/gtsam_unstable/nonlinear/tests
+"testConcurrentBatchSmoother" start time: Feb 02 14:28 EST
+Output:
+----------------------------------------------------------
+Warning:  Levenberg-Marquardt giving up because cannot decrease error with maximum lambda
+Warning:  Levenberg-Marquardt giving up because cannot decrease error with maximum lambda
+*********************** removeFactors_topology_1 ************************
+*********************** removeFactors_topology_2 ************************
+*********************** removeFactors_topology_3 ************************
+*********************** removeFactors_values ************************
+There were no test failures
+<end of output>
+Test time =   0.04 sec
+----------------------------------------------------------
+Test Passed.
+"testConcurrentBatchSmoother" end time: Feb 02 14:28 EST
+"testConcurrentBatchSmoother" time elapsed: 00:00:00
+----------------------------------------------------------
+
+201/230 Testing: testConcurrentIncrementalSmootherDL
+201/230 Test: testConcurrentIncrementalSmootherDL
+Command: "/home/jkang/gtsam/build/gtsam_unstable/nonlinear/tests/testConcurrentIncrementalSmootherDL"
+Directory: /home/jkang/gtsam/build/gtsam_unstable/nonlinear/tests
+"testConcurrentIncrementalSmootherDL" start time: Feb 02 14:28 EST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.03 sec
+----------------------------------------------------------
+Test Passed.
+"testConcurrentIncrementalSmootherDL" end time: Feb 02 14:28 EST
+"testConcurrentIncrementalSmootherDL" time elapsed: 00:00:00
+----------------------------------------------------------
+
+202/230 Testing: testConcurrentIncrementalFilter
+202/230 Test: testConcurrentIncrementalFilter
+Command: "/home/jkang/gtsam/build/gtsam_unstable/nonlinear/tests/testConcurrentIncrementalFilter"
+Directory: /home/jkang/gtsam/build/gtsam_unstable/nonlinear/tests
+"testConcurrentIncrementalFilter" start time: Feb 02 14:28 EST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.04 sec
+----------------------------------------------------------
+Test Passed.
+"testConcurrentIncrementalFilter" end time: Feb 02 14:28 EST
+"testConcurrentIncrementalFilter" time elapsed: 00:00:00
+----------------------------------------------------------
+
+203/230 Testing: testNonlinearClusterTree
+203/230 Test: testNonlinearClusterTree
+Command: "/home/jkang/gtsam/build/gtsam_unstable/nonlinear/tests/testNonlinearClusterTree"
+Directory: /home/jkang/gtsam/build/gtsam_unstable/nonlinear/tests
+"testNonlinearClusterTree" start time: Feb 02 14:28 EST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"testNonlinearClusterTree" end time: Feb 02 14:28 EST
+"testNonlinearClusterTree" time elapsed: 00:00:00
+----------------------------------------------------------
+
+204/230 Testing: testParticleFactor
+204/230 Test: testParticleFactor
+Command: "/home/jkang/gtsam/build/gtsam_unstable/nonlinear/tests/testParticleFactor"
+Directory: /home/jkang/gtsam/build/gtsam_unstable/nonlinear/tests
+"testParticleFactor" start time: Feb 02 14:28 EST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"testParticleFactor" end time: Feb 02 14:28 EST
+"testParticleFactor" time elapsed: 00:00:00
+----------------------------------------------------------
+
+205/230 Testing: testConcurrentBatchFilter
+205/230 Test: testConcurrentBatchFilter
+Command: "/home/jkang/gtsam/build/gtsam_unstable/nonlinear/tests/testConcurrentBatchFilter"
+Directory: /home/jkang/gtsam/build/gtsam_unstable/nonlinear/tests
+"testConcurrentBatchFilter" start time: Feb 02 14:28 EST
+Output:
+----------------------------------------------------------
+Warning:  Levenberg-Marquardt giving up because cannot decrease error with maximum lambda
+Warning:  Levenberg-Marquardt giving up because cannot decrease error with maximum lambda
+*********************** synchronize_2 ************************
+*********************** synchronize_3 ************************
+*********************** synchronize_5 ************************
+*********************** removeFactors_topology_1 ************************
+*********************** removeFactors_topology_2 ************************
+*********************** removeFactors_topology_3 ************************
+*********************** removeFactors_values ************************
+There were no test failures
+<end of output>
+Test time =   0.05 sec
+----------------------------------------------------------
+Test Passed.
+"testConcurrentBatchFilter" end time: Feb 02 14:28 EST
+"testConcurrentBatchFilter" time elapsed: 00:00:00
+----------------------------------------------------------
+
+206/230 Testing: testLinearizedFactor
+206/230 Test: testLinearizedFactor
+Command: "/home/jkang/gtsam/build/gtsam_unstable/nonlinear/tests/testLinearizedFactor"
+Directory: /home/jkang/gtsam/build/gtsam_unstable/nonlinear/tests
+"testLinearizedFactor" start time: Feb 02 14:28 EST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.03 sec
+----------------------------------------------------------
+Test Passed.
+"testLinearizedFactor" end time: Feb 02 14:28 EST
+"testLinearizedFactor" time elapsed: 00:00:00
+----------------------------------------------------------
+
+207/230 Testing: testSmartStereoProjectionPoseFactor
+207/230 Test: testSmartStereoProjectionPoseFactor
+Command: "/home/jkang/gtsam/build/gtsam_unstable/slam/tests/testSmartStereoProjectionPoseFactor"
+Directory: /home/jkang/gtsam/build/gtsam_unstable/slam/tests
+"testSmartStereoProjectionPoseFactor" start time: Feb 02 14:28 EST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.03 sec
+----------------------------------------------------------
+Test Passed.
+"testSmartStereoProjectionPoseFactor" end time: Feb 02 14:28 EST
+"testSmartStereoProjectionPoseFactor" time elapsed: 00:00:00
+----------------------------------------------------------
+
+208/230 Testing: testProjectionFactorPPPC
+208/230 Test: testProjectionFactorPPPC
+Command: "/home/jkang/gtsam/build/gtsam_unstable/slam/tests/testProjectionFactorPPPC"
+Directory: /home/jkang/gtsam/build/gtsam_unstable/slam/tests
+"testProjectionFactorPPPC" start time: Feb 02 14:28 EST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"testProjectionFactorPPPC" end time: Feb 02 14:28 EST
+"testProjectionFactorPPPC" time elapsed: 00:00:00
+----------------------------------------------------------
+
+209/230 Testing: testProjectionFactorPPP
+209/230 Test: testProjectionFactorPPP
+Command: "/home/jkang/gtsam/build/gtsam_unstable/slam/tests/testProjectionFactorPPP"
+Directory: /home/jkang/gtsam/build/gtsam_unstable/slam/tests
+"testProjectionFactorPPP" start time: Feb 02 14:28 EST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"testProjectionFactorPPP" end time: Feb 02 14:28 EST
+"testProjectionFactorPPP" time elapsed: 00:00:00
+----------------------------------------------------------
+
+210/230 Testing: testPoseBetweenFactor
+210/230 Test: testPoseBetweenFactor
+Command: "/home/jkang/gtsam/build/gtsam_unstable/slam/tests/testPoseBetweenFactor"
+Directory: /home/jkang/gtsam/build/gtsam_unstable/slam/tests
+"testPoseBetweenFactor" start time: Feb 02 14:28 EST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"testPoseBetweenFactor" end time: Feb 02 14:28 EST
+"testPoseBetweenFactor" time elapsed: 00:00:00
+----------------------------------------------------------
+
+211/230 Testing: testOccupancyGrid
+211/230 Test: testOccupancyGrid
+Command: "/home/jkang/gtsam/build/gtsam_unstable/slam/tests/testOccupancyGrid"
+Directory: /home/jkang/gtsam/build/gtsam_unstable/slam/tests
+"testOccupancyGrid" start time: Feb 02 14:28 EST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"testOccupancyGrid" end time: Feb 02 14:28 EST
+"testOccupancyGrid" time elapsed: 00:00:00
+----------------------------------------------------------
+
+212/230 Testing: testPosePriorFactor
+212/230 Test: testPosePriorFactor
+Command: "/home/jkang/gtsam/build/gtsam_unstable/slam/tests/testPosePriorFactor"
+Directory: /home/jkang/gtsam/build/gtsam_unstable/slam/tests
+"testPosePriorFactor" start time: Feb 02 14:28 EST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"testPosePriorFactor" end time: Feb 02 14:28 EST
+"testPosePriorFactor" time elapsed: 00:00:00
+----------------------------------------------------------
+
+213/230 Testing: testEquivInertialNavFactor_GlobalVel
+213/230 Test: testEquivInertialNavFactor_GlobalVel
+Command: "/home/jkang/gtsam/build/gtsam_unstable/slam/tests/testEquivInertialNavFactor_GlobalVel"
+Directory: /home/jkang/gtsam/build/gtsam_unstable/slam/tests
+"testEquivInertialNavFactor_GlobalVel" start time: Feb 02 14:28 EST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"testEquivInertialNavFactor_GlobalVel" end time: Feb 02 14:28 EST
+"testEquivInertialNavFactor_GlobalVel" time elapsed: 00:00:00
+----------------------------------------------------------
+
+214/230 Testing: testBetweenFactorEM
+214/230 Test: testBetweenFactorEM
+Command: "/home/jkang/gtsam/build/gtsam_unstable/slam/tests/testBetweenFactorEM"
+Directory: /home/jkang/gtsam/build/gtsam_unstable/slam/tests
+"testBetweenFactorEM" start time: Feb 02 14:28 EST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"testBetweenFactorEM" end time: Feb 02 14:28 EST
+"testBetweenFactorEM" time elapsed: 00:00:00
+----------------------------------------------------------
+
+215/230 Testing: testInvDepthFactorVariant1
+215/230 Test: testInvDepthFactorVariant1
+Command: "/home/jkang/gtsam/build/gtsam_unstable/slam/tests/testInvDepthFactorVariant1"
+Directory: /home/jkang/gtsam/build/gtsam_unstable/slam/tests
+"testInvDepthFactorVariant1" start time: Feb 02 14:28 EST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"testInvDepthFactorVariant1" end time: Feb 02 14:28 EST
+"testInvDepthFactorVariant1" time elapsed: 00:00:00
+----------------------------------------------------------
+
+216/230 Testing: testDummyFactor
+216/230 Test: testDummyFactor
+Command: "/home/jkang/gtsam/build/gtsam_unstable/slam/tests/testDummyFactor"
+Directory: /home/jkang/gtsam/build/gtsam_unstable/slam/tests
+"testDummyFactor" start time: Feb 02 14:28 EST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"testDummyFactor" end time: Feb 02 14:28 EST
+"testDummyFactor" time elapsed: 00:00:00
+----------------------------------------------------------
+
+217/230 Testing: testInertialNavFactor_GlobalVelocity
+217/230 Test: testInertialNavFactor_GlobalVelocity
+Command: "/home/jkang/gtsam/build/gtsam_unstable/slam/tests/testInertialNavFactor_GlobalVelocity"
+Directory: /home/jkang/gtsam/build/gtsam_unstable/slam/tests
+"testInertialNavFactor_GlobalVelocity" start time: Feb 02 14:28 EST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"testInertialNavFactor_GlobalVelocity" end time: Feb 02 14:28 EST
+"testInertialNavFactor_GlobalVelocity" time elapsed: 00:00:00
+----------------------------------------------------------
+
+218/230 Testing: testTransformBtwRobotsUnaryFactorEM
+218/230 Test: testTransformBtwRobotsUnaryFactorEM
+Command: "/home/jkang/gtsam/build/gtsam_unstable/slam/tests/testTransformBtwRobotsUnaryFactorEM"
+Directory: /home/jkang/gtsam/build/gtsam_unstable/slam/tests
+"testTransformBtwRobotsUnaryFactorEM" start time: Feb 02 14:28 EST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"testTransformBtwRobotsUnaryFactorEM" end time: Feb 02 14:28 EST
+"testTransformBtwRobotsUnaryFactorEM" time elapsed: 00:00:00
+----------------------------------------------------------
+
+219/230 Testing: testBiasedGPSFactor
+219/230 Test: testBiasedGPSFactor
+Command: "/home/jkang/gtsam/build/gtsam_unstable/slam/tests/testBiasedGPSFactor"
+Directory: /home/jkang/gtsam/build/gtsam_unstable/slam/tests
+"testBiasedGPSFactor" start time: Feb 02 14:28 EST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"testBiasedGPSFactor" end time: Feb 02 14:28 EST
+"testBiasedGPSFactor" time elapsed: 00:00:00
+----------------------------------------------------------
+
+220/230 Testing: testGaussMarkov1stOrderFactor
+220/230 Test: testGaussMarkov1stOrderFactor
+Command: "/home/jkang/gtsam/build/gtsam_unstable/slam/tests/testGaussMarkov1stOrderFactor"
+Directory: /home/jkang/gtsam/build/gtsam_unstable/slam/tests
+"testGaussMarkov1stOrderFactor" start time: Feb 02 14:28 EST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"testGaussMarkov1stOrderFactor" end time: Feb 02 14:28 EST
+"testGaussMarkov1stOrderFactor" time elapsed: 00:00:00
+----------------------------------------------------------
+
+221/230 Testing: testInvDepthFactorVariant2
+221/230 Test: testInvDepthFactorVariant2
+Command: "/home/jkang/gtsam/build/gtsam_unstable/slam/tests/testInvDepthFactorVariant2"
+Directory: /home/jkang/gtsam/build/gtsam_unstable/slam/tests
+"testInvDepthFactorVariant2" start time: Feb 02 14:28 EST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.03 sec
+----------------------------------------------------------
+Test Passed.
+"testInvDepthFactorVariant2" end time: Feb 02 14:28 EST
+"testInvDepthFactorVariant2" time elapsed: 00:00:00
+----------------------------------------------------------
+
+222/230 Testing: testSmartRangeFactor
+222/230 Test: testSmartRangeFactor
+Command: "/home/jkang/gtsam/build/gtsam_unstable/slam/tests/testSmartRangeFactor"
+Directory: /home/jkang/gtsam/build/gtsam_unstable/slam/tests
+"testSmartRangeFactor" start time: Feb 02 14:28 EST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"testSmartRangeFactor" end time: Feb 02 14:28 EST
+"testSmartRangeFactor" time elapsed: 00:00:00
+----------------------------------------------------------
+
+223/230 Testing: testTSAMFactors
+223/230 Test: testTSAMFactors
+Command: "/home/jkang/gtsam/build/gtsam_unstable/slam/tests/testTSAMFactors"
+Directory: /home/jkang/gtsam/build/gtsam_unstable/slam/tests
+"testTSAMFactors" start time: Feb 02 14:28 EST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"testTSAMFactors" end time: Feb 02 14:28 EST
+"testTSAMFactors" time elapsed: 00:00:00
+----------------------------------------------------------
+
+224/230 Testing: testTOAFactor
+224/230 Test: testTOAFactor
+Command: "/home/jkang/gtsam/build/gtsam_unstable/slam/tests/testTOAFactor"
+Directory: /home/jkang/gtsam/build/gtsam_unstable/slam/tests
+"testTOAFactor" start time: Feb 02 14:28 EST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"testTOAFactor" end time: Feb 02 14:28 EST
+"testTOAFactor" time elapsed: 00:00:00
+----------------------------------------------------------
+
+225/230 Testing: testMultiProjectionFactor
+225/230 Test: testMultiProjectionFactor
+Command: "/home/jkang/gtsam/build/gtsam_unstable/slam/tests/testMultiProjectionFactor"
+Directory: /home/jkang/gtsam/build/gtsam_unstable/slam/tests
+"testMultiProjectionFactor" start time: Feb 02 14:28 EST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"testMultiProjectionFactor" end time: Feb 02 14:28 EST
+"testMultiProjectionFactor" time elapsed: 00:00:00
+----------------------------------------------------------
+
+226/230 Testing: testRelativeElevationFactor
+226/230 Test: testRelativeElevationFactor
+Command: "/home/jkang/gtsam/build/gtsam_unstable/slam/tests/testRelativeElevationFactor"
+Directory: /home/jkang/gtsam/build/gtsam_unstable/slam/tests
+"testRelativeElevationFactor" start time: Feb 02 14:28 EST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"testRelativeElevationFactor" end time: Feb 02 14:28 EST
+"testRelativeElevationFactor" time elapsed: 00:00:00
+----------------------------------------------------------
+
+227/230 Testing: testInvDepthFactorVariant3
+227/230 Test: testInvDepthFactorVariant3
+Command: "/home/jkang/gtsam/build/gtsam_unstable/slam/tests/testInvDepthFactorVariant3"
+Directory: /home/jkang/gtsam/build/gtsam_unstable/slam/tests
+"testInvDepthFactorVariant3" start time: Feb 02 14:28 EST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"testInvDepthFactorVariant3" end time: Feb 02 14:28 EST
+"testInvDepthFactorVariant3" time elapsed: 00:00:00
+----------------------------------------------------------
+
+228/230 Testing: testAHRS
+228/230 Test: testAHRS
+Command: "/home/jkang/gtsam/build/gtsam_unstable/slam/tests/testAHRS"
+Directory: /home/jkang/gtsam/build/gtsam_unstable/slam/tests
+"testAHRS" start time: Feb 02 14:28 EST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"testAHRS" end time: Feb 02 14:28 EST
+"testAHRS" time elapsed: 00:00:00
+----------------------------------------------------------
+
+229/230 Testing: testInvDepthFactor3
+229/230 Test: testInvDepthFactor3
+Command: "/home/jkang/gtsam/build/gtsam_unstable/slam/tests/testInvDepthFactor3"
+Directory: /home/jkang/gtsam/build/gtsam_unstable/slam/tests
+"testInvDepthFactor3" start time: Feb 02 14:28 EST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.03 sec
+----------------------------------------------------------
+Test Passed.
+"testInvDepthFactor3" end time: Feb 02 14:28 EST
+"testInvDepthFactor3" time elapsed: 00:00:00
+----------------------------------------------------------
+
+230/230 Testing: testTransformBtwRobotsUnaryFactor
+230/230 Test: testTransformBtwRobotsUnaryFactor
+Command: "/home/jkang/gtsam/build/gtsam_unstable/slam/tests/testTransformBtwRobotsUnaryFactor"
+Directory: /home/jkang/gtsam/build/gtsam_unstable/slam/tests
+"testTransformBtwRobotsUnaryFactor" start time: Feb 02 14:28 EST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"testTransformBtwRobotsUnaryFactor" end time: Feb 02 14:28 EST
+"testTransformBtwRobotsUnaryFactor" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Feb 02 14:28 EST

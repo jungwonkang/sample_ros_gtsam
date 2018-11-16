@@ -1,0 +1,35 @@
+# CMake generated Testfile for 
+# Source directory: /home/jkang/gtsam/gtsam/geometry/tests
+# Build directory: /home/jkang/gtsam/build/gtsam/geometry/tests
+# 
+# This file includes the relevant testing commands required for 
+# testing this directory and lists subdirectories to be tested as well.
+add_test(testCal3Unified "/home/jkang/gtsam/build/gtsam/geometry/tests/testCal3Unified")
+add_test(testBearingRange "/home/jkang/gtsam/build/gtsam/geometry/tests/testBearingRange")
+add_test(testTriangulation "/home/jkang/gtsam/build/gtsam/geometry/tests/testTriangulation")
+add_test(testEssentialMatrix "/home/jkang/gtsam/build/gtsam/geometry/tests/testEssentialMatrix")
+add_test(testCameraSet "/home/jkang/gtsam/build/gtsam/geometry/tests/testCameraSet")
+add_test(testRot2 "/home/jkang/gtsam/build/gtsam/geometry/tests/testRot2")
+add_test(testStereoCamera "/home/jkang/gtsam/build/gtsam/geometry/tests/testStereoCamera")
+add_test(testCyclic "/home/jkang/gtsam/build/gtsam/geometry/tests/testCyclic")
+add_test(testCal3_S2 "/home/jkang/gtsam/build/gtsam/geometry/tests/testCal3_S2")
+add_test(testRot3 "/home/jkang/gtsam/build/gtsam/geometry/tests/testRot3")
+add_test(testSimpleCamera "/home/jkang/gtsam/build/gtsam/geometry/tests/testSimpleCamera")
+add_test(testRot3M "/home/jkang/gtsam/build/gtsam/geometry/tests/testRot3M")
+add_test(testPinholePose "/home/jkang/gtsam/build/gtsam/geometry/tests/testPinholePose")
+add_test(testSerializationGeometry "/home/jkang/gtsam/build/gtsam/geometry/tests/testSerializationGeometry")
+add_test(testPoint2 "/home/jkang/gtsam/build/gtsam/geometry/tests/testPoint2")
+add_test(testCal3DS2 "/home/jkang/gtsam/build/gtsam/geometry/tests/testCal3DS2")
+add_test(testPinholeCamera "/home/jkang/gtsam/build/gtsam/geometry/tests/testPinholeCamera")
+add_test(testQuaternion "/home/jkang/gtsam/build/gtsam/geometry/tests/testQuaternion")
+add_test(testCalibratedCamera "/home/jkang/gtsam/build/gtsam/geometry/tests/testCalibratedCamera")
+add_test(testRot3Q "/home/jkang/gtsam/build/gtsam/geometry/tests/testRot3Q")
+add_test(testPose3 "/home/jkang/gtsam/build/gtsam/geometry/tests/testPose3")
+add_test(testUnit3 "/home/jkang/gtsam/build/gtsam/geometry/tests/testUnit3")
+add_test(testPoint3 "/home/jkang/gtsam/build/gtsam/geometry/tests/testPoint3")
+add_test(testOrientedPlane3 "/home/jkang/gtsam/build/gtsam/geometry/tests/testOrientedPlane3")
+add_test(testStereoPoint2 "/home/jkang/gtsam/build/gtsam/geometry/tests/testStereoPoint2")
+add_test(testCal3Bundler "/home/jkang/gtsam/build/gtsam/geometry/tests/testCal3Bundler")
+add_test(testPose2 "/home/jkang/gtsam/build/gtsam/geometry/tests/testPose2")
+add_test(testSO3 "/home/jkang/gtsam/build/gtsam/geometry/tests/testSO3")
+add_test(testPinholeSet "/home/jkang/gtsam/build/gtsam/geometry/tests/testPinholeSet")
