@@ -1,0 +1,100 @@
+* 2018/1/30
+* Jungwon Kang
+
+
+================================================================================================================
+Description
+================================================================================================================
+The examples in [official site for GTSAM4] didn't work. 
+However, the codes in [official site for dongjing-GTSAM4-examples] worked. 
+I know it is the matter of cmake.
+*The cmake files are stored in the folder [CMakeLists (from dongjing_gtsam4_examples)].
+
+The folder [catkin_ws] is a ros-workspace for simple GTSAM example test.
+I put one GTSAM example code:
+  ./catkin_ws/src/beginner_tutorials/src/Pose2SLAMExample.cpp
+And, I edited cmake file:
+  ./catkin_ws/src/beginner_tutorials/CMakeLists.txt
+
+It finally worked!!
+To run it, do $ rosrun beginner_tutorials Pose2SLAMExample
+
+
+================================================================================================================
+Lines in [./catkin_ws/src/beginner_tutorials/CMakeLists.txt]
+================================================================================================================
+This is the lines in [./catkin_ws/src/beginner_tutorials/CMakeLists.txt]:
+
+
+cmake_minimum_required(VERSION 2.8.3)
+project(beginner_tutorials)
+
+add_compile_options(-std=c++11)
+
+find_package(catkin REQUIRED COMPONENTS
+  roscpp
+  rospy
+  std_msgs
+)
+
+find_package(GTSAM REQUIRED) # Uses installed package
+include_directories(${GTSAM_INCLUDE_DIR})
+set(GTSAM_LIBRARIES gtsam)   # TODO: automatic search libs
+
+find_package(GTSAMCMakeTools)
+include(GtsamMakeConfigFile)
+include(GtsamBuildTypes)
+include(GtsamTesting)
+
+catkin_package()
+
+include_directories(
+  ${catkin_INCLUDE_DIRS}
+)
+
+add_executable(Pose2SLAMExample src/Pose2SLAMExample.cpp)
+target_link_libraries(Pose2SLAMExample ${catkin_LIBRARIES} ${Boost_LIBRARIES} gtsam)
+
+
+================================================================================================================
+Important site
+================================================================================================================
+
+* official site for GTSAM4
+https://bitbucket.org/gtborg/gtsam
+
+* official site for dongjing-GTSAM4-examples
+https://github.com/dongjing3309/gtsam-examples
+
+* question1:
+https://stackoverflow.com/questions/44395859/how-to-use-the-c-library-gtsam-in-my-project-package
+
+* question2:
+https://answers.ros.org/question/263158/how-to-use-the-gtsam-library-in-my-ros-package/
+
+
+================================================================================================================
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

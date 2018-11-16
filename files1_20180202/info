@@ -1,0 +1,85 @@
+* 2018/2/2
+
+<< installation >>
+- ros
+- ros qt plugin
+- gtsam
+- gtsam-examples
+
+
+========================================================================================
+@@ 'ros qt plugin' installation
+========================================================================================
+https://ros-industrial.github.io/ros_qtc_plugin/_source/How-to-Install-Users.html
+
+
+========================================================================================
+@@ run the qt-creator (qt-creator ver 5.9)
+========================================================================================
+$ qtcreator-ros
+
+
+========================================================================================
+@@ gtsam 4.0
+========================================================================================
+https://bitbucket.org/gtborg/gtsam
+  git clone https://bitbucket.org/gtborg/gtsam.git
+
+
+========================================================================================
+@@ gtsam-examples
+========================================================================================
+https://github.com/dongjing3309/gtsam-examples
+
+
+========================================================================================
+@@ how to build workspace in qt-creator
+========================================================================================
+method1)
+  I made workspace by running commands $ catkin_make.
+  Then, in the qt-creator, I tried to load the made worksapce. But, it failed.
+
+method2) 
+  I made workspace in the qt-creator.
+  Then, I just copied the folder containing the source codes. It worked.
+
+
+========================================================================================
+** issue:
+========================================================================================
+When we the following command, we have to get the following result:
+--------------------
+$ echo $ROS_PACKAGE_PATH 
+/home/jkang/catkin_ws/src:/opt/ros/kinetic/share
+--------------------
+The two paths are from the following lines in the ~/.bashrc :
+--------------------
+source /opt/ros/kinetic/setup.bash
+source ~/catkin_ws/devel/setup.bash
+--------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
