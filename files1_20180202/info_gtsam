@@ -1,0 +1,181 @@
+* 2018/1/26
+* Jungwon Kang
+
+================================================================================================================
+#### try 0 -> failed (because of boost version problem)
+================================================================================================================
+
+* official site:
+https://research.cc.gatech.edu/borg/gtsam/
+
+
+1) Download [gtsam-3.2.1.tgz]
+  * boost version check
+  https://askubuntu.com/questions/147474/how-can-i-find-boost-version/318615
+
+
+2) Check if it is installed
+  - boost: 1.43 or higher
+  - cmake: 2.6 or higher
+
+  -> current my system uses boost 1.58 & cmake 3.5.1
+
+
+3) Follow general cmake procedure
+  $ cd gtsam-3.2.1
+  $ mkdir build
+  $ cd build
+  $ cmake ..
+  $ make install
+
+  -> error occured!! 
+     The official site said it does not support boost 1.58.
+
+
+4) remove boost 1.58
+[important page]
+https://askubuntu.com/questions/397939/how-to-uninstall-boost-1-49-and-install-boost-1-54-in-ubuntu
+
+  $ dpkg -S /usr/include/boost/version.hpp
+  $ sudo apt-get autoremove libboost1.58-dev
+
+
+5) install boost 1.43
+[important page]
+https://coderwall.com/p/0atfug/installing-boost-1-55-from-source-on-ubuntu-12-04
+http://www.boost.org/doc/libs/1_43_0/more/getting_started/unix-variants.html
+
+  $ ./bootstrap.sh --prefix=/usr/local
+
+
+  -> BTW, gtsam uses libboost-dev
+
+
+
+
+================================================================================================================
+#### try 1
+================================================================================================================
+
+** official site:
+https://bitbucket.org/gtborg/gtsam
+
+  On Jan 23 2018, new version of gtsam4 was uploaded.
+
+
+** install
+$ sudo -s
+Then, follow the general procedure (mkdir, cmake .., make install)
+  -> It worked.
+     See the file [msg (from gtsam4 installation)]
+
+
+** testing examples
+@ I just followed simple process described in the page for documentation for examples
+https://bitbucket.org/gtborg/gtsam/src/f538d1dc7bdd7126cb683f3e961c985f76a872b0/examples/?at=develop
+  mkdir build
+  cd build
+  cmake ..
+
+
+** modifying cmake (1)
+However, it didn't work, because it issued an error 'gtsamAddExamplesGlob' in cmake file.
+So, I modified the following file: (based on file:///home/yu1/dir_gtsam/gtborg-gtsam/cmake/README.html)
+  /home/yu1/dir_gtsam/gtborg-gtsam/examples/CMakeLists.txt
+
+I added the following two lines:
+  <added code>
+  find_package(GTSAMCMakeTools)
+  include(GtsamTesting)
+
+  <original code>
+  set (excluded_examples
+    DiscreteBayesNet_FG.cpp
+    UGM_chain.cpp
+    UGM_small.cpp
+    elaboratePoint2KalmanFilter.cpp
+  )
+
+  gtsamAddExamplesGlob("*.cpp" "${excluded_examples}" "gtsam;${Boost_PROGRAM_OPTIONS_LIBRARY}")
+
+
+After the above process, I tried again. However, it didn't work again, producing the following errors:
+  ...
+  /usr/include/c++/5/bits/c++0x_warning.h:32:2: error: #error This file requires compiler and library support for the ISO C++ 2011 standard. This support must be enabled with the -std=c++11 or -std=gnu++11 compiler options.
+  ...
+  /usr/local/include/gtsam/base/OptionalJacobian.h:22:23: fatal error: Eigen/Dense: No such file or directory
+  ...
+
+
+** modifying cmake (2) (-> for resolving std=gnu++11 issue)
+So, I added the following codes in /home/yu1/dir_gtsam/gtborg-gtsam/examples/CMakeLists.txt
+  * important page:
+  https://bitbucket.org/gtborg/gtsam/issues/129/provide-c-11-support
+
+  <added code>
+  find_package(GTSAMCMakeTools)
+  include(GtsamTesting)
+  set(CMAKE_CXX_FLAGS "-std=c++11 ${CMAKE_CXX_FLAGS}")
+
+
+** modifying cmake (3) (-> for resolving Eigen/Dense issue)
+  * important page:
+  https://bitbucket.org/gtborg/gtsam/issues/228/eigen-doesnt-include-correctly-outside
+	which suggests
+	  $ g++-7 -std=c++0x -Wfatal-errors -O0 -g3 -c -fmessage-length=0 -MMD -MP -MF"gtsam_adaptor_test.d" -MT"gtsam_adaptor_test.o" -o "gtsam_adaptor_test.o" "../gtsam_adaptor_test.cpp"
+
+	  $ g++-7 -std=c++0x -I /usr/local/include/gtsam/3rdparty/Eigen/ -Wfatal-errors -O0 -g3 -c -fmessage-length=0 -MMD -MP -MF"gtsam_adaptor_test.d" -MT"gtsam_adaptor_test.o" -o "gtsam_adaptor_test.o" "../gtsam_adaptor_test.cpp"
+
+  <added code>
+  find_package(GTSAMCMakeTools)
+  include(GtsamTesting)
+  set(CMAKE_CXX_FLAGS "-std=c++11 -I /usr/local/include/gtsam/3rdparty/Eigen/ ${CMAKE_CXX_FLAGS}")
+
+
+** It again produced the following error:
+...
+/usr/bin/ld: CMakeFiles/CameraResectioning.dir/CameraResectioning.o: undefined reference to symbol '_ZN5boost6system15system_categoryEv'
+//usr/lib/x86_64-linux-gnu/libboost_system.so.1.58.0: error adding symbols: DSO missing from command line
+collect2: error: ld returned 1 exit status
+CMakeFiles/CameraResectioning.dir/build.make:94: recipe for target 'CameraResectioning' failed
+make[3]: *** [CameraResectioning] Error 1
+...
+
+  
+  -lboost_system
+
+  https://codeyarns.com/2014/07/07/undefined-reference-to-boost-symbol/
+
+
+
+
+
+================================================================================================================
+#### etc
+================================================================================================================
+
+* ros + gtsam4
+https://answers.ros.org/question/263158/how-to-use-the-gtsam-library-in-my-ros-package/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
